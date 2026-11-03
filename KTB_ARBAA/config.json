@@ -4,27 +4,27 @@
   "data": "data.json",
   "logo": {
     "file": "",
-    "link": "",
+    "link": "https://github.com/hamazimi/hadith_graph/tree/main/KTB_ARBAA",
     "text": "Azimi"
   },
   "text": {
     "more": "See: https://www.academia.edu/11293931/گراف_اسناد_کتب_اربعه",
-    "intro": "Based on Dirayat al-Noor data",
+    "intro": "Based on DirayatoNoor data",
     "title": "Kutub Arba\u0027a"
   },
   "legend": {
     "edgeLabel": "Traditions",
-    "colorLabel": "reliability",
+    "colorLabel": "Reliability",
     "nodeLabel": "Narrators"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "color",
+    "groupSelectorAttribute": "reliability",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
-    "groupByEdgeDirection": false,
-    "imageAttribute": false
+    "groupByEdgeDirection": true,
+    "imageAttribute": "Label_Ar"
   },
   "sigma": {
     "drawingProperties": {
