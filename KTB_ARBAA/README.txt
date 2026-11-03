@@ -35,9 +35,9 @@ Each edge links a narrator to the authority he narrated from, and every Imam is 
 * **2:** 10–99
 * **1:** (thinnest): 1–9
 
-**Line Style:**
-* **Solid lines:** Chains drawn mainly from the Four Books, using Dirayat al-Noor software.
-* **Dashed lines:** Chains taken from the fihrist and rijal works (Najashi, Tusi’s Fihrist, Kashshi).
+**Line Color:**
+* 🟢 **Green Lines:** Chains drawn mainly from the Four Books, using Dirayat al-Noor software.
+* 🔵 **Blue Lines:** Chains taken from the fihrist and rijal works (Najashi, Tusi’s Fihrist, Kashshi).
 
 ## 📋 Selection Criteria
 
