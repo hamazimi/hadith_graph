@@ -55,5 +55,12 @@ A chain is shown only if both of its ends are included. Additionally:
 
 *Note: These limits were relaxed where long paths would have overcrowded the page.*
 
-## 🛠️ Credits & Templates
-* The visualization template was provided by the [InteractiveVis project](http://blogs.oii.ox.ac.uk/vis/).
+## 📜 License & Credits
+
+**Code / Template:**
+The visualization code is based on the InteractiveVis project by the Oxford Internet Institute. 
+All code is open source and released under the **GNU GPL v3 license**.
+
+**Data & Methodology (My Work):**
+The manually gathered data (JSON files) and the specific layout methodology are licensed under 
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
