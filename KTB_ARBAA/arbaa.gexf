@@ -7088,7 +7088,7 @@
           <attvalue for="dashed" value="0"/>
         </attvalues>
       </edge>
-      <edge id="e754" source="n056" target="n058">
+      <edge id="e754" source="n056" target="n058" weight="1.0">
         <viz:color r="32" g="189" b="0"/>
         <attvalues>
           <attvalue for="dashed" value="0"/>
