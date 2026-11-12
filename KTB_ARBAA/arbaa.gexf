@@ -7,7 +7,7 @@
   </meta>
   <graph defaultedgetype="directed" mode="static">
     <attributes class="node" mode="static">
-      <attribute id="full_name_ar" title="full_name_ar" type="string"/>
+      <attribute id="full_name_en" title="full_name_en" type="string"/>
       <attribute id="d. year" title="d. year" type="integer"/>
       <attribute id="reliability" title="reliability" type="string"/>
       <attribute id="sizeclass" title="sizeclass" type="integer"/>
@@ -16,9 +16,9 @@
       <attribute id="dashed" title="dashed" type="integer"/>
     </attributes>
     <nodes>
-      <node id="n001" label="Ali ">
+      <node id="n001" label="علي بن أبي طالب">
         <attvalues>
-          <attvalue for="full_name_ar" value="علي بن أبي طالب"/>
+          <attvalue for="full_name_en" value="Ali b. Abi Talib"/>
           <attvalue for="d. year" value="40"/>
           <attvalue for="reliability" value="معصوم"/>
           <attvalue for="sizeclass" value="5"/>
@@ -27,9 +27,9 @@
         <viz:position x="63.6" y="-0.24009864"/>
         <viz:color r="244" g="237" b="0"/>
       </node>
-      <node id="n002" label="Hasan">
+      <node id="n002" label="الحسن بن علي المجتبى">
         <attvalues>
-          <attvalue for="full_name_ar" value="الحسن بن علي المجتبى"/>
+          <attvalue for="full_name_en" value="Hasan b. Ali al-Mujtaba"/>
           <attvalue for="d. year" value="47"/>
           <attvalue for="reliability" value="معصوم"/>
           <attvalue for="sizeclass" value="5"/>
@@ -38,9 +38,9 @@
         <viz:position x="333.6" y="0.010542659"/>
         <viz:color r="244" g="237" b="0"/>
       </node>
-      <node id="n003" label="Husayn">
+      <node id="n003" label="الحسين بن علي">
         <attvalues>
-          <attvalue for="full_name_ar" value="الحسين بن علي"/>
+          <attvalue for="full_name_en" value="Husayn b. Ali"/>
           <attvalue for="d. year" value="57"/>
           <attvalue for="reliability" value="معصوم"/>
           <attvalue for="sizeclass" value="5"/>
@@ -49,9 +49,9 @@
         <viz:position x="621.6" y="0.086396575"/>
         <viz:color r="244" g="237" b="0"/>
       </node>
-      <node id="n004" label="Sajjad">
+      <node id="n004" label="علي بن الحسين زين العابدين">
         <attvalues>
-          <attvalue for="full_name_ar" value="علي بن الحسين زين العابدين"/>
+          <attvalue for="full_name_en" value="Ali b. al-Husayn Zayn al-Abidin"/>
           <attvalue for="d. year" value="91"/>
           <attvalue for="reliability" value="معصوم"/>
           <attvalue for="sizeclass" value="5"/>
@@ -60,9 +60,9 @@
         <viz:position x="1572.9" y="12.691589"/>
         <viz:color r="244" g="237" b="0"/>
       </node>
-      <node id="n005" label="Asbagh">
+      <node id="n005" label="الأصبغ بن نباتة">
         <attvalues>
-          <attvalue for="full_name_ar" value="الأصبغ بن نباتة"/>
+          <attvalue for="full_name_en" value="Asbagh b. Nubata"/>
           <attvalue for="d. year" value="95"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -71,9 +71,9 @@
         <viz:position x="1660.2" y="-76.300735"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n006" label="Baqir">
+      <node id="n006" label="محمد بن علي الباقر">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن علي الباقر"/>
+          <attvalue for="full_name_en" value="Muhammad b. Ali al-Baqir"/>
           <attvalue for="d. year" value="110"/>
           <attvalue for="reliability" value="معصوم"/>
           <attvalue for="sizeclass" value="5"/>
@@ -82,9 +82,9 @@
         <viz:position x="2106.6" y="-66.40897"/>
         <viz:color r="244" g="237" b="0"/>
       </node>
-      <node id="n007" label="Ismail al-Jufi">
+      <node id="n007" label="إسماعيل بن عبد الرحمن الجعفي">
         <attvalues>
-          <attvalue for="full_name_ar" value="إسماعيل بن عبد الرحمن الجعفي"/>
+          <attvalue for="full_name_en" value="Isma'il b. Abd al-Rahman al-Ju'fi"/>
           <attvalue for="d. year" value="114"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -93,9 +93,9 @@
         <viz:position x="2208.0" y="35.537407"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n008" label="Jabir al-Jufi">
+      <node id="n008" label="جابر بن يزيد الجعفي">
         <attvalues>
-          <attvalue for="full_name_ar" value="جابر بن يزيد الجعفي"/>
+          <attvalue for="full_name_en" value="Jabir b. Yazid al-Ju'fi"/>
           <attvalue for="d. year" value="118"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -104,9 +104,9 @@
         <viz:position x="2328.6" y="130.30737"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n009" label="Muhammad b. Qays">
+      <node id="n009" label="محمد بن قيس البجلي">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن قيس البجلي"/>
+          <attvalue for="full_name_en" value="Muhammad b. Qays al-Bajali"/>
           <attvalue for="d. year" value="120"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -115,9 +115,9 @@
         <viz:position x="2380.5" y="-59.69746"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n010" label="Zuhri">
+      <node id="n010" label="محمد بن مسلم بن شهاب الزهري">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن مسلم بن شهاب الزهري"/>
+          <attvalue for="full_name_en" value="Muhammad b. Muslim b. Shihab al-Zuhri"/>
           <attvalue for="d. year" value="120"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -126,9 +126,9 @@
         <viz:position x="2389.5" y="-124.786835"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n011" label="Sad b. Tarif">
+      <node id="n011" label="سعد بن طريف الإسكاف">
         <attvalues>
-          <attvalue for="full_name_ar" value="سعد بن طريف الإسكاف"/>
+          <attvalue for="full_name_en" value="Sa'd b. Tarif al-Iskaf"/>
           <attvalue for="d. year" value="122"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -137,9 +137,9 @@
         <viz:position x="2435.7" y="-214.49666"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n012" label="Sadir">
+      <node id="n012" label="سدير بن حكيم الصيرفي">
         <attvalues>
-          <attvalue for="full_name_ar" value="سدير بن حكيم الصيرفي"/>
+          <attvalue for="full_name_en" value="Sadir b. Hakim al-Sayrafi"/>
           <attvalue for="d. year" value="125"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -148,9 +148,9 @@
         <viz:position x="2513.1" y="52.579338"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n013" label="Ibn Taghlib">
+      <node id="n013" label="أبان بن تغلب البكري">
         <attvalues>
-          <attvalue for="full_name_ar" value="أبان بن تغلب البكري"/>
+          <attvalue for="full_name_en" value="Aban b. Taghlib al-Bakri"/>
           <attvalue for="d. year" value="125"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -159,9 +159,9 @@
         <viz:position x="2534.7" y="308.7308"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n014" label="Humran">
+      <node id="n014" label="حمران بن أعين الشيباني">
         <attvalues>
-          <attvalue for="full_name_ar" value="حمران بن أعين الشيباني"/>
+          <attvalue for="full_name_en" value="Humran b. A'yun al-Shaybani"/>
           <attvalue for="d. year" value="128"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -170,9 +170,9 @@
         <viz:position x="2603.4" y="-298.65704"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n015" label="Bukayr">
+      <node id="n015" label="بكير بن أعين الشيباني">
         <attvalues>
-          <attvalue for="full_name_ar" value="بكير بن أعين الشيباني"/>
+          <attvalue for="full_name_en" value="Bukayr b. A'yun al-Shaybani"/>
           <attvalue for="d. year" value="129"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -181,9 +181,9 @@
         <viz:position x="2625.9" y="-407.7959"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n016" label="Ubaydullah al-Halabi">
+      <node id="n016" label="عبيد الله بن علي الحلبي">
         <attvalues>
-          <attvalue for="full_name_ar" value="عبيد الله بن علي الحلبي"/>
+          <attvalue for="full_name_en" value="Ubayd Allah b. Ali al-Halabi"/>
           <attvalue for="d. year" value="131"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -192,9 +192,9 @@
         <viz:position x="2677.8" y="509.64465"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n017" label="Fudayl">
+      <node id="n017" label="الفضيل بن يسار النهدي">
         <attvalues>
-          <attvalue for="full_name_ar" value="الفضيل بن يسار النهدي"/>
+          <attvalue for="full_name_en" value="Fudayl b. Yasar al-Nahdi"/>
           <attvalue for="d. year" value="131"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -203,9 +203,9 @@
         <viz:position x="2683.5" y="-124.85322"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n018" label="Abi al-Jarud">
+      <node id="n018" label="زياد بن المنذر أبو الجارود">
         <attvalues>
-          <attvalue for="full_name_ar" value="زياد بن المنذر أبو الجارود"/>
+          <attvalue for="full_name_en" value="Ziyad b. al-Mundhir Abu al-Jarud"/>
           <attvalue for="d. year" value="134"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -214,9 +214,9 @@
         <viz:position x="2775.0" y="-498.65216"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n019" label="Ibn Abi Abdillah">
+      <node id="n019" label="عبد الرحمن بن أبي عبد الله البصري">
         <attvalues>
-          <attvalue for="full_name_ar" value="عبد الرحمن بن أبي عبد الله البصري"/>
+          <attvalue for="full_name_en" value="Abd al-Rahman b. Abi Abd Allah al-Basri"/>
           <attvalue for="d. year" value="135"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -225,9 +225,9 @@
         <viz:position x="2811.0" y="666.5721"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n020" label="Muhammad al-Halabi">
+      <node id="n020" label="محمد بن علي الحلبي">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن علي الحلبي"/>
+          <attvalue for="full_name_en" value="Muhammad b. Ali al-Halabi"/>
           <attvalue for="d. year" value="136"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -236,9 +236,9 @@
         <viz:position x="2837.7" y="18.360867"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n021" label="Ziyad al-Hadhdha">
+      <node id="n021" label="زياد بن عيسى أبو عبيدة الحذاء">
         <attvalues>
-          <attvalue for="full_name_ar" value="زياد بن عيسى أبو عبيدة الحذاء"/>
+          <attvalue for="full_name_en" value="Ziyad b. Isa Abu Ubayda al-Hadhdha'"/>
           <attvalue for="d. year" value="137"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -247,9 +247,9 @@
         <viz:position x="2850.0" y="-105.78355"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n022" label="Maysar">
+      <node id="n022" label="ميسر بن عبد العزيز النخعي">
         <attvalues>
-          <attvalue for="full_name_ar" value="ميسر بن عبد العزيز النخعي"/>
+          <attvalue for="full_name_en" value="Maysar b. Abd al-Aziz al-Nakha'i"/>
           <attvalue for="d. year" value="137"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -258,9 +258,9 @@
         <viz:position x="2861.7" y="133.98552"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n023" label="Hadrami">
+      <node id="n023" label="عبدالله بن محمد الحضرمي">
         <attvalues>
-          <attvalue for="full_name_ar" value="عبدالله بن محمد الحضرمي"/>
+          <attvalue for="full_name_en" value="Abd Allah b. Muhammad al-Hadrami"/>
           <attvalue for="d. year" value="140"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -269,9 +269,9 @@
         <viz:position x="2942.7" y="-275.11008"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n024" label="Ismail b. Jabir">
+      <node id="n024" label="إسماعيل بن جابر الجعفي">
         <attvalues>
-          <attvalue for="full_name_ar" value="إسماعيل بن جابر الجعفي"/>
+          <attvalue for="full_name_en" value="Isma'il b. Jabir al-Ju'fi"/>
           <attvalue for="d. year" value="143"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -280,9 +280,9 @@
         <viz:position x="3020.4" y="-982.33795"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n025" label="Sadiq">
+      <node id="n025" label="جعفر بن محمد الصادق">
         <attvalues>
-          <attvalue for="full_name_ar" value="جعفر بن محمد الصادق"/>
+          <attvalue for="full_name_en" value="Ja'far b. Muhammad al-Sadiq"/>
           <attvalue for="d. year" value="145"/>
           <attvalue for="reliability" value="معصوم"/>
           <attvalue for="sizeclass" value="5"/>
@@ -291,9 +291,9 @@
         <viz:position x="3069.6" y="334.0453"/>
         <viz:color r="244" g="237" b="0"/>
       </node>
-      <node id="n026" label="Muhammad b. Muslim">
+      <node id="n026" label="محمد بن مسلم الثقفي">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن مسلم الثقفي"/>
+          <attvalue for="full_name_en" value="Muhammad b. Muslim al-Thaqafi"/>
           <attvalue for="d. year" value="146"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -302,9 +302,9 @@
         <viz:position x="3093.0" y="-707.53546"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n027" label="Burayd">
+      <node id="n027" label="بريد بن معاوية العجلي">
         <attvalues>
-          <attvalue for="full_name_ar" value="بريد بن معاوية العجلي"/>
+          <attvalue for="full_name_en" value="Burayd b. Mu'awiya al-Ijli"/>
           <attvalue for="d. year" value="147"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -313,9 +313,9 @@
         <viz:position x="3126.9" y="-342.4255"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n028" label="Yahya Abu Basir">
+      <node id="n028" label="يحيى أبو بصير الأسدي">
         <attvalues>
-          <attvalue for="full_name_ar" value="يحيى أبو بصير الأسدي"/>
+          <attvalue for="full_name_en" value="Yahya Abu Basir al-Asadi"/>
           <attvalue for="d. year" value="148"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -324,9 +324,9 @@
         <viz:position x="3147.6" y="-154.56519"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n029" label="Zurara">
+      <node id="n029" label="زرارة بن أعين الشيباني">
         <attvalues>
-          <attvalue for="full_name_ar" value="زرارة بن أعين الشيباني"/>
+          <attvalue for="full_name_en" value="Zurara b. A'yun al-Shaybani"/>
           <attvalue for="d. year" value="148"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -335,9 +335,9 @@
         <viz:position x="3150.9" y="-571.3911"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n030" label="Amr b. Shimr">
+      <node id="n030" label="عمرو بن شمر الجعفي">
         <attvalues>
-          <attvalue for="full_name_ar" value="عمرو بن شمر الجعفي"/>
+          <attvalue for="full_name_en" value="Amr b. Shimr al-Ju'fi"/>
           <attvalue for="d. year" value="148"/>
           <attvalue for="reliability" value="ضعیف"/>
           <attvalue for="sizeclass" value="3"/>
@@ -346,9 +346,9 @@
         <viz:position x="3161.4" y="-769.451"/>
         <viz:color r="255" g="191" b="98"/>
       </node>
-      <node id="n031" label="Thumali">
+      <node id="n031" label="ثابت بن دينار أبو حمزة الثمالي">
         <attvalues>
-          <attvalue for="full_name_ar" value="ثابت بن دينار أبو حمزة الثمالي"/>
+          <attvalue for="full_name_en" value="Thabit b. Dinar Abu Hamza al-Thumali"/>
           <attvalue for="d. year" value="149"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -357,9 +357,9 @@
         <viz:position x="3173.1" y="-850.4062"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n032" label="Hisham b. Salim">
+      <node id="n032" label="هشام بن سالم الجواليقي">
         <attvalues>
-          <attvalue for="full_name_ar" value="هشام بن سالم الجواليقي"/>
+          <attvalue for="full_name_en" value="Hisham b. Salim al-Jawaliqi"/>
           <attvalue for="d. year" value="149"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -368,9 +368,9 @@
         <viz:position x="3178.2" y="-438.80746"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n033" label="Shahham">
+      <node id="n033" label="زيد بن يونس أبو أسامة الشحام">
         <attvalues>
-          <attvalue for="full_name_ar" value="زيد بن يونس أبو أسامة الشحام"/>
+          <attvalue for="full_name_en" value="Zayd b. Yunus Abu Usama al-Shahham"/>
           <attvalue for="d. year" value="149"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -379,9 +379,9 @@
         <viz:position x="3199.5" y="59.65009"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n034" label="Abd al-Ala">
+      <node id="n034" label="عبد الأعلى بن أعين مولى آل سام">
         <attvalues>
-          <attvalue for="full_name_ar" value="عبد الأعلى بن أعين مولى آل سام"/>
+          <attvalue for="full_name_en" value="Abd al-A'la b. A'yun Mawla Al Sam"/>
           <attvalue for="d. year" value="152"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -390,9 +390,9 @@
         <viz:position x="3266.4" y="826.8132"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n035" label="Misma">
+      <node id="n035" label="مسمع بن عبد الملك كردين">
         <attvalues>
-          <attvalue for="full_name_ar" value="مسمع بن عبد الملك كردين"/>
+          <attvalue for="full_name_en" value="Misma' b. Abd al-Malik Kirdin"/>
           <attvalue for="d. year" value="152"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -401,9 +401,9 @@
         <viz:position x="3277.2" y="172.68916"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n036" label="Sama'a">
+      <node id="n036" label="سماعة بن مهران الحضرمي">
         <attvalues>
-          <attvalue for="full_name_ar" value="سماعة بن مهران الحضرمي"/>
+          <attvalue for="full_name_en" value="Sama'a b. Mihran al-Hadrami"/>
           <attvalue for="d. year" value="155"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -412,9 +412,9 @@
         <viz:position x="3343.8" y="650.0435"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n037" label="Ammar">
+      <node id="n037" label="عمار بن موسى الساباطي">
         <attvalues>
-          <attvalue for="full_name_ar" value="عمار بن موسى الساباطي"/>
+          <attvalue for="full_name_en" value="Ammar b. Musa al-Sabati"/>
           <attvalue for="d. year" value="155"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -423,9 +423,9 @@
         <viz:position x="3348.9" y="49.339462"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n038" label="Abdallah b. Sinan">
+      <node id="n038" label="عبد الله بن سنان">
         <attvalues>
-          <attvalue for="full_name_ar" value="عبد الله بن سنان"/>
+          <attvalue for="full_name_en" value="Abd Allah b. Sinan"/>
           <attvalue for="d. year" value="156"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -434,9 +434,9 @@
         <viz:position x="3392.7" y="-197.11224"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n039" label="Said b. Yasar">
+      <node id="n039" label="سعيد بن يسار الضبي">
         <attvalues>
-          <attvalue for="full_name_ar" value="سعيد بن يسار الضبي"/>
+          <attvalue for="full_name_en" value="Sa'id b. Yasar al-Dabbi"/>
           <attvalue for="d. year" value="157"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -445,9 +445,9 @@
         <viz:position x="3419.7" y="-10.37271"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n040" label="Ays">
+      <node id="n040" label="العيص بن القاسم البجلي">
         <attvalues>
-          <attvalue for="full_name_ar" value="العيص بن القاسم البجلي"/>
+          <attvalue for="full_name_en" value="Ays b. al-Qasim al-Bajali"/>
           <attvalue for="d. year" value="158"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -456,9 +456,9 @@
         <viz:position x="3434.1" y="487.55936"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n041" label="Sakuni">
+      <node id="n041" label="إسماعيل بن أبي زياد السكوني">
         <attvalues>
-          <attvalue for="full_name_ar" value="إسماعيل بن أبي زياد السكوني"/>
+          <attvalue for="full_name_en" value="Isma'il b. Abi Ziyad al-Sakuni"/>
           <attvalue for="d. year" value="159"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="4"/>
@@ -467,9 +467,9 @@
         <viz:position x="3474.6" y="295.99973"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n042" label="Mansur b. Hazim">
+      <node id="n042" label="منصور بن حازم">
         <attvalues>
-          <attvalue for="full_name_ar" value="منصور بن حازم"/>
+          <attvalue for="full_name_en" value="Mansur b. Hazim"/>
           <attvalue for="d. year" value="161"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -478,9 +478,9 @@
         <viz:position x="3527.7" y="-451.08228"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n043" label="Ishaq b. Ammar">
+      <node id="n043" label="إسحاق بن عمار الصيرفي">
         <attvalues>
-          <attvalue for="full_name_ar" value="إسحاق بن عمار الصيرفي"/>
+          <attvalue for="full_name_en" value="Ishaq b. Ammar al-Sayrafi"/>
           <attvalue for="d. year" value="162"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -489,9 +489,9 @@
         <viz:position x="3538.5" y="1112.8612"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n044" label="Yaqub b. Shuayb">
+      <node id="n044" label="يعقوب بن شعيب الحداد">
         <attvalues>
-          <attvalue for="full_name_ar" value="يعقوب بن شعيب الحداد"/>
+          <attvalue for="full_name_en" value="Ya'qub b. Shu'ayb al-Haddad"/>
           <attvalue for="d. year" value="163"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -500,9 +500,9 @@
         <viz:position x="3564.9" y="66.87609"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n045" label="Hisham b. al-Hakam">
+      <node id="n045" label="هشام بن الحكم">
         <attvalues>
-          <attvalue for="full_name_ar" value="هشام بن الحكم"/>
+          <attvalue for="full_name_en" value="Hisham b. al-Hakam"/>
           <attvalue for="d. year" value="164"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -511,9 +511,9 @@
         <viz:position x="3615.9" y="787.735"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n046" label="Abu Maryam">
+      <node id="n046" label="عبد الغفار بن القاسم أبو مريم الأنصاري">
         <attvalues>
-          <attvalue for="full_name_ar" value="عبد الغفار بن القاسم أبو مريم الأنصاري"/>
+          <attvalue for="full_name_en" value="Abd al-Ghaffar b. al-Qasim Abu Maryam al-Ansari"/>
           <attvalue for="d. year" value="165"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -522,9 +522,9 @@
         <viz:position x="3630.3" y="683.4387"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n047" label="Aban">
+      <node id="n047" label="أبان بن عثمان الأحمر">
         <attvalues>
-          <attvalue for="full_name_ar" value="أبان بن عثمان الأحمر"/>
+          <attvalue for="full_name_en" value="Aban b. Uthman al-Ahmar"/>
           <attvalue for="d. year" value="167"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -533,9 +533,9 @@
         <viz:position x="3676.5" y="863.57117"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n048" label="Ibn Muskan">
+      <node id="n048" label="عبد الله بن مسكان">
         <attvalues>
-          <attvalue for="full_name_ar" value="عبد الله بن مسكان"/>
+          <attvalue for="full_name_en" value="Abd Allah b. Muskan"/>
           <attvalue for="d. year" value="167"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -544,9 +544,9 @@
         <viz:position x="3677.7" y="-834.4357"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n049" label="Safwan al-Jammal">
+      <node id="n049" label="صفوان بن مهران الجمال">
         <attvalues>
-          <attvalue for="full_name_ar" value="صفوان بن مهران الجمال"/>
+          <attvalue for="full_name_en" value="Safwan b. Mihran al-Jammal"/>
           <attvalue for="d. year" value="168"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -555,9 +555,9 @@
         <viz:position x="3716.7" y="483.92584"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n050" label="Uqba">
+      <node id="n050" label="عقبة بن خالد الأسدي">
         <attvalues>
-          <attvalue for="full_name_ar" value="عقبة بن خالد الأسدي"/>
+          <attvalue for="full_name_en" value="Uqba b. Khalid al-Asadi"/>
           <attvalue for="d. year" value="168"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -566,9 +566,9 @@
         <viz:position x="3720.0" y="307.60477"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n051" label="Ibn Yaqtin">
+      <node id="n051" label="علي بن يقطين">
         <attvalues>
-          <attvalue for="full_name_ar" value="علي بن يقطين"/>
+          <attvalue for="full_name_en" value="Ali b. Yaqtin"/>
           <attvalue for="d. year" value="169"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -577,9 +577,9 @@
         <viz:position x="3735.3" y="1349.0967"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n052" label="Ubayd b. Zurara">
+      <node id="n052" label="عبيد بن زرارة">
         <attvalues>
-          <attvalue for="full_name_ar" value="عبيد بن زرارة"/>
+          <attvalue for="full_name_en" value="Ubayd b. Zurara"/>
           <attvalue for="d. year" value="169"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -588,9 +588,9 @@
         <viz:position x="3742.5" y="-128.3855"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n053" label="Dawud b. Farqad">
+      <node id="n053" label="داود بن فرقد">
         <attvalues>
-          <attvalue for="full_name_ar" value="داود بن فرقد"/>
+          <attvalue for="full_name_en" value="Dawud b. Farqad"/>
           <attvalue for="d. year" value="171"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -599,9 +599,9 @@
         <viz:position x="3791.1" y="-338.369"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n054" label="Asim al-Hannat">
+      <node id="n054" label="عاصم بن حميد الحناط">
         <attvalues>
-          <attvalue for="full_name_ar" value="عاصم بن حميد الحناط"/>
+          <attvalue for="full_name_en" value="Asim b. Humayd al-Hannat"/>
           <attvalue for="d. year" value="171"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -610,9 +610,9 @@
         <viz:position x="3810.0" y="-643.21027"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n055" label="Sayf">
+      <node id="n055" label="سيف بن عميرة النخعي">
         <attvalues>
-          <attvalue for="full_name_ar" value="سيف بن عميرة النخعي"/>
+          <attvalue for="full_name_en" value="Sayf b. Umayra al-Nakha'i"/>
           <attvalue for="d. year" value="171"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -621,9 +621,9 @@
         <viz:position x="3812.1" y="-446.72717"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n056" label="Thalaba">
+      <node id="n056" label="ثعلبة بن ميمون">
         <attvalues>
-          <attvalue for="full_name_ar" value="ثعلبة بن ميمون"/>
+          <attvalue for="full_name_en" value="Tha'laba b. Maymun"/>
           <attvalue for="d. year" value="172"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -632,9 +632,9 @@
         <viz:position x="3827.4" y="-1107.0568"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n057" label="Abi Ayyub">
+      <node id="n057" label="إبراهيم بن عيسى أبو أيوب الخزاز">
         <attvalues>
-          <attvalue for="full_name_ar" value="إبراهيم بن عيسى أبو أيوب الخزاز"/>
+          <attvalue for="full_name_en" value="Ibrahim b. Isa Abu Ayyub al-Kharraz"/>
           <attvalue for="d. year" value="173"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -643,9 +643,9 @@
         <viz:position x="3851.4" y="-17.403677"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n058" label="Muawiya b. Ammar">
+      <node id="n058" label="معاوية بن عمار">
         <attvalues>
-          <attvalue for="full_name_ar" value="معاوية بن عمار"/>
+          <attvalue for="full_name_en" value="Mu'awiya b. Ammar"/>
           <attvalue for="d. year" value="173"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -654,9 +654,9 @@
         <viz:position x="3857.7" y="389.28015"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n059" label="Hariz">
+      <node id="n059" label="حريز بن عبد الله السجستاني">
         <attvalues>
-          <attvalue for="full_name_ar" value="حريز بن عبد الله السجستاني"/>
+          <attvalue for="full_name_en" value="Hariz b. Abd Allah al-Sijistani"/>
           <attvalue for="d. year" value="174"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -665,9 +665,9 @@
         <viz:position x="3904.5" y="-832.1966"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n060" label="Ibn Riab">
+      <node id="n060" label="علي بن رئاب">
         <attvalues>
-          <attvalue for="full_name_ar" value="علي بن رئاب"/>
+          <attvalue for="full_name_en" value="Ali b. Ri'ab"/>
           <attvalue for="d. year" value="176"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -676,9 +676,9 @@
         <viz:position x="3940.5" y="117.03095"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n061" label="Ibn Rashid">
+      <node id="n061" label="الحسن بن راشد">
         <attvalues>
-          <attvalue for="full_name_ar" value="الحسن بن راشد"/>
+          <attvalue for="full_name_en" value="Hasan b. Rashid"/>
           <attvalue for="d. year" value="176"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -687,9 +687,9 @@
         <viz:position x="3960.9" y="-572.1577"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n062" label="Umar b. Udhayna">
+      <node id="n062" label="عمر بن أذينة">
         <attvalues>
-          <attvalue for="full_name_ar" value="عمر بن أذينة"/>
+          <attvalue for="full_name_en" value="Umar b. Udhayna"/>
           <attvalue for="d. year" value="177"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -698,9 +698,9 @@
         <viz:position x="3973.2" y="-266.7816"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n063" label="Ala b. Razin">
+      <node id="n063" label="العلاء بن رزين القلاء">
         <attvalues>
-          <attvalue for="full_name_ar" value="العلاء بن رزين القلاء"/>
+          <attvalue for="full_name_en" value="Ala' b. Razin al-Qalla'"/>
           <attvalue for="d. year" value="179"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -709,9 +709,9 @@
         <viz:position x="4029.9" y="-1020.8269"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n064" label="Muthanna">
+      <node id="n064" label="المثنى بن الوليد الحناط">
         <attvalues>
-          <attvalue for="full_name_ar" value="المثنى بن الوليد الحناط"/>
+          <attvalue for="full_name_en" value="Muthanna b. al-Walid al-Hannat"/>
           <attvalue for="d. year" value="179"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -720,9 +720,9 @@
         <viz:position x="4032.3" y="-681.2995"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n065" label="Ibn Maymun">
+      <node id="n065" label="عبد الله بن ميمون القداح">
         <attvalues>
-          <attvalue for="full_name_ar" value="عبد الله بن ميمون القداح"/>
+          <attvalue for="full_name_en" value="Abd Allah b. Maymun al-Qaddah"/>
           <attvalue for="d. year" value="179"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -731,9 +731,9 @@
         <viz:position x="4035.6" y="814.84796"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n066" label="Kazim">
+      <node id="n066" label="موسى بن جعفر الكاظم">
         <attvalues>
-          <attvalue for="full_name_ar" value="موسى بن جعفر الكاظم"/>
+          <attvalue for="full_name_en" value="Musa b. Ja'far al-Kazim"/>
           <attvalue for="d. year" value="180"/>
           <attvalue for="reliability" value="معصوم"/>
           <attvalue for="sizeclass" value="5"/>
@@ -742,9 +742,9 @@
         <viz:position x="4074.9" y="1170.7167"/>
         <viz:color r="244" g="237" b="0"/>
       </node>
-      <node id="n067" label="Ibn Hajjaj">
+      <node id="n067" label="عبد الرحمن بن الحجاج">
         <attvalues>
-          <attvalue for="full_name_ar" value="عبد الرحمن بن الحجاج"/>
+          <attvalue for="full_name_en" value="Abd al-Rahman b. al-Hajjaj"/>
           <attvalue for="d. year" value="180"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -753,9 +753,9 @@
         <viz:position x="4069.5" y="944.0636"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n068" label="Jamil b. Salih">
+      <node id="n068" label="جميل بن صالح الأسدي">
         <attvalues>
-          <attvalue for="full_name_ar" value="جميل بن صالح الأسدي"/>
+          <attvalue for="full_name_en" value="Jamil b. Salih al-Asadi"/>
           <attvalue for="d. year" value="181"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -764,9 +764,9 @@
         <viz:position x="4097.1" y="607.0769"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n069" label="Mufaddal b. Salih">
+      <node id="n069" label="المفضل بن صالح أبو جميلة">
         <attvalues>
-          <attvalue for="full_name_ar" value="المفضل بن صالح أبو جميلة"/>
+          <attvalue for="full_name_en" value="Mufaddal b. Salih Abu Jamila"/>
           <attvalue for="d. year" value="182"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -775,9 +775,9 @@
         <viz:position x="4132.5" y="344.35477"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n070" label="Ibn Asamm">
+      <node id="n070" label="عبد الله بن عبد الرحمن الأصم">
         <attvalues>
-          <attvalue for="full_name_ar" value="عبد الله بن عبد الرحمن الأصم"/>
+          <attvalue for="full_name_en" value="Abd Allah b. Abd al-Rahman al-Asamm"/>
           <attvalue for="d. year" value="183"/>
           <attvalue for="reliability" value="ضعیف"/>
           <attvalue for="sizeclass" value="3"/>
@@ -786,9 +786,9 @@
         <viz:position x="4157.1" y="-66.161964"/>
         <viz:color r="255" g="191" b="98"/>
       </node>
-      <node id="n071" label="Dawud b. Sirhan">
+      <node id="n071" label="داود بن سرحان">
         <attvalues>
-          <attvalue for="full_name_ar" value="داود بن سرحان"/>
+          <attvalue for="full_name_en" value="Dawud b. Sirhan"/>
           <attvalue for="d. year" value="184"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -797,9 +797,9 @@
         <viz:position x="4187.1" y="539.44543"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n072" label="Abdallah b. Bukayr">
+      <node id="n072" label="عبد الله بن بكير">
         <attvalues>
-          <attvalue for="full_name_ar" value="عبد الله بن بكير"/>
+          <attvalue for="full_name_en" value="Abd Allah b. Bukayr"/>
           <attvalue for="d. year" value="185"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -808,9 +808,9 @@
         <viz:position x="4214.4" y="-253.67812"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n073" label="Ibrahim b. Abd al-Hamid">
+      <node id="n073" label="إبراهيم بن عبد الحميد">
         <attvalues>
-          <attvalue for="full_name_ar" value="إبراهيم بن عبد الحميد"/>
+          <attvalue for="full_name_en" value="Ibrahim b. Abd al-Hamid"/>
           <attvalue for="d. year" value="186"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -819,9 +819,9 @@
         <viz:position x="4243.5" y="1364.3339"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n074" label="Jamil">
+      <node id="n074" label="جميل بن دراج">
         <attvalues>
-          <attvalue for="full_name_ar" value="جميل بن دراج"/>
+          <attvalue for="full_name_en" value="Jamil b. Darraj"/>
           <attvalue for="d. year" value="187"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -830,9 +830,9 @@
         <viz:position x="4273.8" y="197.17229"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n075" label="Hammad b. Uthman">
+      <node id="n075" label="حماد بن عثمان">
         <attvalues>
-          <attvalue for="full_name_ar" value="حماد بن عثمان"/>
+          <attvalue for="full_name_en" value="Hammad b. Uthman"/>
           <attvalue for="d. year" value="187"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -841,9 +841,9 @@
         <viz:position x="4276.5" y="885.15247"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n076" label="Masada b. Sadaqa">
+      <node id="n076" label="مسعدة بن صدقة">
         <attvalues>
-          <attvalue for="full_name_ar" value="مسعدة بن صدقة"/>
+          <attvalue for="full_name_en" value="Mas'ada b. Sadaqa"/>
           <attvalue for="d. year" value="187"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -852,9 +852,9 @@
         <viz:position x="4273.5" y="668.2417"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n077" label="Zur'a">
+      <node id="n077" label="زرعة بن محمد الحضرمي">
         <attvalues>
-          <attvalue for="full_name_ar" value="زرعة بن محمد الحضرمي"/>
+          <attvalue for="full_name_en" value="Zur'a b. Muhammad al-Hadrami"/>
           <attvalue for="d. year" value="187"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -863,9 +863,9 @@
         <viz:position x="4276.5" y="778.5538"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n078" label="Rifaa">
+      <node id="n078" label="رفاعة بن موسى النخاس">
         <attvalues>
-          <attvalue for="full_name_ar" value="رفاعة بن موسى النخاس"/>
+          <attvalue for="full_name_en" value="Rifa'a b. Musa al-Nakhkhas"/>
           <attvalue for="d. year" value="190"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -874,9 +874,9 @@
         <viz:position x="4345.5" y="1049.0881"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n079" label="Muhammad b. Fudayl">
+      <node id="n079" label="محمد بن الفضيل الصيرفي">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن الفضيل الصيرفي"/>
+          <attvalue for="full_name_en" value="Muhammad b. al-Fudayl al-Sayrafi"/>
           <attvalue for="d. year" value="192"/>
           <attvalue for="reliability" value="ضعیف"/>
           <attvalue for="sizeclass" value="3"/>
@@ -885,9 +885,9 @@
         <viz:position x="4401.9" y="-1587.5131"/>
         <viz:color r="255" g="191" b="98"/>
       </node>
-      <node id="n080" label="Muawiya b. Wahb">
+      <node id="n080" label="معاوية بن وهب البجلي">
         <attvalues>
-          <attvalue for="full_name_ar" value="معاوية بن وهب البجلي"/>
+          <attvalue for="full_name_en" value="Mu'awiya b. Wahb al-Bajali"/>
           <attvalue for="d. year" value="193"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -896,9 +896,9 @@
         <viz:position x="4424.7" y="-527.58594"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n081" label="Muhammad b. Abi Hamza">
+      <node id="n081" label="محمد بن أبي حمزة الثمالي">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن أبي حمزة الثمالي"/>
+          <attvalue for="full_name_en" value="Muhammad b. Abi Hamza al-Thumali"/>
           <attvalue for="d. year" value="193"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -907,9 +907,9 @@
         <viz:position x="4425.3" y="1561.2081"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n082" label="Hannan b. Sadir">
+      <node id="n082" label="حنان بن سدير">
         <attvalues>
-          <attvalue for="full_name_ar" value="حنان بن سدير"/>
+          <attvalue for="full_name_en" value="Hannan b. Sadir"/>
           <attvalue for="d. year" value="195"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -918,9 +918,9 @@
         <viz:position x="4482.0" y="-966.3123"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n083" label="Fadala">
+      <node id="n083" label="فضالة بن أيوب الأزدي">
         <attvalues>
-          <attvalue for="full_name_ar" value="فضالة بن أيوب الأزدي"/>
+          <attvalue for="full_name_en" value="Fadala b. Ayyub al-Azdi"/>
           <attvalue for="d. year" value="196"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -929,9 +929,9 @@
         <viz:position x="4502.4" y="-55.559994"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n084" label="Ali b. Jafar">
+      <node id="n084" label="علي بن جعفر العريضي">
         <attvalues>
-          <attvalue for="full_name_ar" value="علي بن جعفر العريضي"/>
+          <attvalue for="full_name_en" value="Ali b. Ja'far al-Uraydi"/>
           <attvalue for="d. year" value="196"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -940,9 +940,9 @@
         <viz:position x="4528.5" y="1408.9847"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n085" label="Musaddiq">
+      <node id="n085" label="مصدق بن صدقة">
         <attvalues>
-          <attvalue for="full_name_ar" value="مصدق بن صدقة"/>
+          <attvalue for="full_name_en" value="Musaddiq b. Sadaqa"/>
           <attvalue for="d. year" value="196"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -951,9 +951,9 @@
         <viz:position x="4527.3" y="-804.73267"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n086" label="Nawfali">
+      <node id="n086" label="الحسين بن يزيد النوفلي">
         <attvalues>
-          <attvalue for="full_name_ar" value="الحسين بن يزيد النوفلي"/>
+          <attvalue for="full_name_en" value="Husayn b. Yazid al-Nawfali"/>
           <attvalue for="d. year" value="199"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="4"/>
@@ -962,9 +962,9 @@
         <viz:position x="4601.4" y="-267.5615"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n087" label="Rida">
+      <node id="n087" label="علي بن موسى الرضا">
         <attvalues>
-          <attvalue for="full_name_ar" value="علي بن موسى الرضا"/>
+          <attvalue for="full_name_en" value="Ali b. Musa al-Rida"/>
           <attvalue for="d. year" value="201"/>
           <attvalue for="reliability" value="معصوم"/>
           <attvalue for="sizeclass" value="5"/>
@@ -973,9 +973,9 @@
         <viz:position x="4644.6" y="-1157.3341"/>
         <viz:color r="244" g="237" b="0"/>
       </node>
-      <node id="n088" label="Hasan b. Jahm">
+      <node id="n088" label="الحسن بن الجهم">
         <attvalues>
-          <attvalue for="full_name_ar" value="الحسن بن الجهم"/>
+          <attvalue for="full_name_en" value="Hasan b. al-Jahm"/>
           <attvalue for="d. year" value="200"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -984,9 +984,9 @@
         <viz:position x="4619.7" y="-1059.016"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n089" label="Abdallah b. Jabala">
+      <node id="n089" label="عبد الله بن جبلة الكناني">
         <attvalues>
-          <attvalue for="full_name_ar" value="عبد الله بن جبلة الكناني"/>
+          <attvalue for="full_name_en" value="Abd Allah b. Jabala al-Kinani"/>
           <attvalue for="d. year" value="202"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -995,9 +995,9 @@
         <viz:position x="4672.2" y="1595.3838"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n090" label="Abd al-Karim al-Khathami">
+      <node id="n090" label="عبد الكريم بن عمرو الخثعمي">
         <attvalues>
-          <attvalue for="full_name_ar" value="عبد الكريم بن عمرو الخثعمي"/>
+          <attvalue for="full_name_en" value="Abd al-Karim b. Amr al-Khath'ami"/>
           <attvalue for="d. year" value="202"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1006,9 +1006,9 @@
         <viz:position x="4688.7" y="698.69104"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n091" label="Nadr b. Suwayd">
+      <node id="n091" label="النضر بن سويد">
         <attvalues>
-          <attvalue for="full_name_ar" value="النضر بن سويد"/>
+          <attvalue for="full_name_en" value="Nadr b. Suwayd"/>
           <attvalue for="d. year" value="203"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1017,9 +1017,9 @@
         <viz:position x="4716.3" y="-367.5265"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n092" label="Musa b. Bakr">
+      <node id="n092" label="موسى بن بكر الواسطي">
         <attvalues>
-          <attvalue for="full_name_ar" value="موسى بن بكر الواسطي"/>
+          <attvalue for="full_name_en" value="Musa b. Bakr al-Wasiti"/>
           <attvalue for="d. year" value="204"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1028,9 +1028,9 @@
         <viz:position x="4733.4" y="-454.07593"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n093" label="Bataini">
+      <node id="n093" label="علي بن أبي حمزة البطائني">
         <attvalues>
-          <attvalue for="full_name_ar" value="علي بن أبي حمزة البطائني"/>
+          <attvalue for="full_name_en" value="Ali b. Abi Hamza al-Bata'ini"/>
           <attvalue for="d. year" value="206"/>
           <attvalue for="reliability" value="ضعیف"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1039,9 +1039,9 @@
         <viz:position x="4779.6" y="1126.5219"/>
         <viz:color r="255" g="191" b="98"/>
       </node>
-      <node id="n094" label="Salih b. Uqba">
+      <node id="n094" label="صالح بن عقبة">
         <attvalues>
-          <attvalue for="full_name_ar" value="صالح بن عقبة"/>
+          <attvalue for="full_name_en" value="Salih b. Uqba"/>
           <attvalue for="d. year" value="206"/>
           <attvalue for="reliability" value="ضعیف"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1050,9 +1050,9 @@
         <viz:position x="4780.5" y="-1465.1765"/>
         <viz:color r="255" g="191" b="98"/>
       </node>
-      <node id="n095" label="Ibn Numan">
+      <node id="n095" label="علي بن النعمان الأعلم">
         <attvalues>
-          <attvalue for="full_name_ar" value="علي بن النعمان الأعلم"/>
+          <attvalue for="full_name_en" value="Ali b. al-Nu'man al-A'lam"/>
           <attvalue for="d. year" value="206"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1061,9 +1061,9 @@
         <viz:position x="4785.6" y="-940.56665"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n096" label="Abdallah b. Mughira">
+      <node id="n096" label="عبد الله بن المغيرة">
         <attvalues>
-          <attvalue for="full_name_ar" value="عبد الله بن المغيرة"/>
+          <attvalue for="full_name_en" value="Abd Allah b. al-Mughira"/>
           <attvalue for="d. year" value="206"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1072,9 +1072,9 @@
         <viz:position x="4791.3" y="406.93762"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n097" label="Yunus b. Yaqub">
+      <node id="n097" label="يونس بن يعقوب">
         <attvalues>
-          <attvalue for="full_name_ar" value="يونس بن يعقوب"/>
+          <attvalue for="full_name_en" value="Yunus b. Ya'qub"/>
           <attvalue for="d. year" value="206"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1083,9 +1083,9 @@
         <viz:position x="4794.3" y="869.01984"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n098" label="Hammad b. Isa">
+      <node id="n098" label="حماد بن عيسى">
         <attvalues>
-          <attvalue for="full_name_ar" value="حماد بن عيسى"/>
+          <attvalue for="full_name_en" value="Hammad b. Isa"/>
           <attvalue for="d. year" value="207"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1094,9 +1094,9 @@
         <viz:position x="4816.5" y="-605.8708"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n099" label="Uthman b. Isa">
+      <node id="n099" label="عثمان بن عيسى">
         <attvalues>
-          <attvalue for="full_name_ar" value="عثمان بن عيسى"/>
+          <attvalue for="full_name_en" value="Uthman b. Isa"/>
           <attvalue for="d. year" value="207"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1105,9 +1105,9 @@
         <viz:position x="4825.2" y="-1548.8312"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n100" label="Safwan">
+      <node id="n100" label="صفوان بن يحيى">
         <attvalues>
-          <attvalue for="full_name_ar" value="صفوان بن يحيى"/>
+          <attvalue for="full_name_en" value="Safwan b. Yahya"/>
           <attvalue for="d. year" value="209"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1116,9 +1116,9 @@
         <viz:position x="4862.1" y="93.79865"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n101" label="Ghiyath b. Kallub">
+      <node id="n101" label="غياث بن كلوب">
         <attvalues>
-          <attvalue for="full_name_ar" value="غياث بن كلوب"/>
+          <attvalue for="full_name_en" value="Ghiyath b. Kallub"/>
           <attvalue for="d. year" value="212"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1127,9 +1127,9 @@
         <viz:position x="4968.6" y="850.40015"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n102" label="Qasim b. Rashid">
+      <node id="n102" label="القاسم بن يحيى بن الحسن بن راشد">
         <attvalues>
-          <attvalue for="full_name_ar" value="القاسم بن يحيى بن الحسن بن راشد"/>
+          <attvalue for="full_name_en" value="Qasim b. Yahya b. al-Hasan b. Rashid"/>
           <attvalue for="d. year" value="214"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1138,9 +1138,9 @@
         <viz:position x="5018.7" y="-945.36993"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n103" label="Ibn Abi Umayr">
+      <node id="n103" label="محمد بن أبي عمير">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن أبي عمير"/>
+          <attvalue for="full_name_en" value="Muhammad b. Abi Umayr"/>
           <attvalue for="d. year" value="216"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="5"/>
@@ -1149,9 +1149,9 @@
         <viz:position x="5053.2" y="1341.3011"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n104" label="Ali b. Hadid">
+      <node id="n104" label="علي بن حديد">
         <attvalues>
-          <attvalue for="full_name_ar" value="علي بن حديد"/>
+          <attvalue for="full_name_en" value="Ali b. Hadid"/>
           <attvalue for="d. year" value="215"/>
           <attvalue for="reliability" value="مهمل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1160,9 +1160,9 @@
         <viz:position x="5042.7" y="-1020.7903"/>
         <viz:color r="153" g="153" b="153"/>
       </node>
-      <node id="n105" label="Yunus">
+      <node id="n105" label="يونس بن عبد الرحمن">
         <attvalues>
-          <attvalue for="full_name_ar" value="يونس بن عبد الرحمن"/>
+          <attvalue for="full_name_en" value="Yunus b. Abd al-Rahman"/>
           <attvalue for="d. year" value="216"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1171,9 +1171,9 @@
         <viz:position x="5069.4" y="961.41406"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n106" label="Jawad">
+      <node id="n106" label="محمد بن علي الجواد">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن علي الجواد"/>
+          <attvalue for="full_name_en" value="Muhammad b. Ali al-Jawad"/>
           <attvalue for="d. year" value="217"/>
           <attvalue for="reliability" value="معصوم"/>
           <attvalue for="sizeclass" value="5"/>
@@ -1182,9 +1182,9 @@
         <viz:position x="5100.9" y="794.4922"/>
         <viz:color r="244" g="237" b="0"/>
       </node>
-      <node id="n107" label="Washsha">
+      <node id="n107" label="الحسن بن علي الوشاء">
         <attvalues>
-          <attvalue for="full_name_ar" value="الحسن بن علي الوشاء"/>
+          <attvalue for="full_name_en" value="Hasan b. Ali al-Washsha'"/>
           <attvalue for="d. year" value="218"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1193,9 +1193,9 @@
         <viz:position x="5107.5" y="438.13098"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n108" label="Muhammad b. Sinan">
+      <node id="n108" label="محمد بن سنان">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن سنان"/>
+          <attvalue for="full_name_en" value="Muhammad b. Sinan"/>
           <attvalue for="d. year" value="218"/>
           <attvalue for="reliability" value="ضعیف"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1204,9 +1204,9 @@
         <viz:position x="5110.5" y="-1246.0409"/>
         <viz:color r="255" g="191" b="98"/>
       </node>
-      <node id="n109" label="Ibn Faddal">
+      <node id="n109" label="الحسن بن علي بن فضال">
         <attvalues>
-          <attvalue for="full_name_ar" value="الحسن بن علي بن فضال"/>
+          <attvalue for="full_name_en" value="Hasan b. Ali b. Faddal"/>
           <attvalue for="d. year" value="219"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1215,9 +1215,9 @@
         <viz:position x="5142.0" y="-1457.0559"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n110" label="Ahmad al-Bazanti">
+      <node id="n110" label="أحمد بن محمد بن أبي نصر البزنطي">
         <attvalues>
-          <attvalue for="full_name_ar" value="أحمد بن محمد بن أبي نصر البزنطي"/>
+          <attvalue for="full_name_en" value="Ahmad b. Muhammad b. Abi Nasr al-Bazanti"/>
           <attvalue for="d. year" value="219"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1226,9 +1226,9 @@
         <viz:position x="5161.8" y="577.9597"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n111" label="Hajjal">
+      <node id="n111" label="عبد الله بن محمد الحجال">
         <attvalues>
-          <attvalue for="full_name_ar" value="عبد الله بن محمد الحجال"/>
+          <attvalue for="full_name_en" value="Abd Allah b. Muhammad al-Hajjal"/>
           <attvalue for="d. year" value="221"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1237,9 +1237,9 @@
         <viz:position x="5194.2" y="-1087.657"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n112" label="Ibn Abi Najran">
+      <node id="n112" label="عبد الرحمن بن أبي نجران">
         <attvalues>
-          <attvalue for="full_name_ar" value="عبد الرحمن بن أبي نجران"/>
+          <attvalue for="full_name_en" value="Abd al-Rahman b. Abi Najran"/>
           <attvalue for="d. year" value="221"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1248,9 +1248,9 @@
         <viz:position x="5209.8" y="-748.0783"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n113" label="Qasim al-Jawhari">
+      <node id="n113" label="القاسم بن محمد الجوهري">
         <attvalues>
-          <attvalue for="full_name_ar" value="القاسم بن محمد الجوهري"/>
+          <attvalue for="full_name_en" value="Qasim b. Muhammad al-Jawhari"/>
           <attvalue for="d. year" value="221"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1259,9 +1259,9 @@
         <viz:position x="5213.4" y="250.94319"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n114" label="Hasan al-Bataini">
+      <node id="n114" label="الحسن بن علي بن أبي حمزة البطائني">
         <attvalues>
-          <attvalue for="full_name_ar" value="الحسن بن علي بن أبي حمزة البطائني"/>
+          <attvalue for="full_name_en" value="Hasan b. Ali b. Abi Hamza al-Bata'ini"/>
           <attvalue for="d. year" value="221"/>
           <attvalue for="reliability" value="ضعیف"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1270,9 +1270,9 @@
         <viz:position x="5215.2" y="140.23306"/>
         <viz:color r="255" g="191" b="98"/>
       </node>
-      <node id="n115" label="Hasan b. Mahbub">
+      <node id="n115" label="الحسن بن محبوب">
         <attvalues>
-          <attvalue for="full_name_ar" value="الحسن بن محبوب"/>
+          <attvalue for="full_name_en" value="Hasan b. Mahbub"/>
           <attvalue for="d. year" value="222"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1281,9 +1281,9 @@
         <viz:position x="5241.9" y="-162.87361"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n116" label="Ibn Bazi'">
+      <node id="n116" label="محمد بن إسماعيل بن بزيع">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن إسماعيل بن بزيع"/>
+          <attvalue for="full_name_en" value="Muhammad b. Isma'il b. Bazi'"/>
           <attvalue for="d. year" value="227"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1292,9 +1292,9 @@
         <viz:position x="5368.8" y="-1644.3256"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n117" label="Ali b. al-Hakam">
+      <node id="n117" label="علي بن الحكم">
         <attvalues>
-          <attvalue for="full_name_ar" value="علي بن الحكم"/>
+          <attvalue for="full_name_en" value="Ali b. al-Hakam"/>
           <attvalue for="d. year" value="227"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1303,9 +1303,9 @@
         <viz:position x="5381.4" y="-466.36423"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n118" label="Muawiya b. Hakim">
+      <node id="n118" label="معاوية بن حكيم">
         <attvalues>
-          <attvalue for="full_name_ar" value="معاوية بن حكيم"/>
+          <attvalue for="full_name_en" value="Mu'awiya b. Hakim"/>
           <attvalue for="d. year" value="231"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1314,9 +1314,9 @@
         <viz:position x="5482.2" y="1594.32"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n119" label="Ali b. Asbat">
+      <node id="n119" label="علي بن أسباط">
         <attvalues>
-          <attvalue for="full_name_ar" value="علي بن أسباط"/>
+          <attvalue for="full_name_en" value="Ali b. Asbat"/>
           <attvalue for="d. year" value="233"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1325,9 +1325,9 @@
         <viz:position x="5546.7" y="132.47014"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n120" label="Jafar al-Ashari">
+      <node id="n120" label="جعفر بن محمد الأشعري">
         <attvalues>
-          <attvalue for="full_name_ar" value="جعفر بن محمد الأشعري"/>
+          <attvalue for="full_name_en" value="Ja'far b. Muhammad al-Ash'ari"/>
           <attvalue for="d. year" value="234"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1336,9 +1336,9 @@
         <viz:position x="5565.6" y="1346.4108"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n121" label="Abu Sumayna">
+      <node id="n121" label="محمد بن علي أبو سمينة الصيرفي">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن علي أبو سمينة الصيرفي"/>
+          <attvalue for="full_name_en" value="Muhammad b. Ali Abu Sumayna al-Sayrafi"/>
           <attvalue for="d. year" value="235"/>
           <attvalue for="reliability" value="ضعیف"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1347,9 +1347,9 @@
         <viz:position x="5610.0" y="-1895.7489"/>
         <viz:color r="255" g="191" b="98"/>
       </node>
-      <node id="n122" label="Ismail b. Mihran">
+      <node id="n122" label="إسماعيل بن مهران">
         <attvalues>
-          <attvalue for="full_name_ar" value="إسماعيل بن مهران"/>
+          <attvalue for="full_name_en" value="Isma'il b. Mihran"/>
           <attvalue for="d. year" value="237"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1358,9 +1358,9 @@
         <viz:position x="5653.5" y="-717.07697"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n123" label="Barqi">
+      <node id="n123" label="محمد بن خالد البرقي">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن خالد البرقي"/>
+          <attvalue for="full_name_en" value="Muhammad b. Khalid al-Barqi"/>
           <attvalue for="d. year" value="239"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1369,9 +1369,9 @@
         <viz:position x="5711.1" y="-1027.8105"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n124" label="Hasan al-Ahwazi">
+      <node id="n124" label="الحسن بن سعيد الأهوازي">
         <attvalues>
-          <attvalue for="full_name_ar" value="الحسن بن سعيد الأهوازي"/>
+          <attvalue for="full_name_en" value="Hasan b. Sa'id al-Ahwazi"/>
           <attvalue for="d. year" value="241"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1380,9 +1380,9 @@
         <viz:position x="5760.9" y="747.2846"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n125" label="Amr b. Said">
+      <node id="n125" label="عمرو بن سعيد المدائني">
         <attvalues>
-          <attvalue for="full_name_ar" value="عمرو بن سعيد المدائني"/>
+          <attvalue for="full_name_en" value="Amr b. Sa'id al-Mada'ini"/>
           <attvalue for="d. year" value="241"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1391,9 +1391,9 @@
         <viz:position x="5762.7" y="-936.9023"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n126" label="Abdallah b. Ali b. Jafar">
+      <node id="n126" label="عبد الله بن علي بن جعفر">
         <attvalues>
-          <attvalue for="full_name_ar" value="عبد الله بن علي بن جعفر"/>
+          <attvalue for="full_name_en" value="Abd Allah b. Ali b. Ja'far"/>
           <attvalue for="d. year" value="241"/>
           <attvalue for="reliability" value="مهمل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1402,9 +1402,9 @@
         <viz:position x="5767.5" y="1797.1348"/>
         <viz:color r="153" g="153" b="153"/>
       </node>
-      <node id="n127" label="Yaqub al-Anbari">
+      <node id="n127" label="يعقوب بن يزيد الأنباري">
         <attvalues>
-          <attvalue for="full_name_ar" value="يعقوب بن يزيد الأنباري"/>
+          <attvalue for="full_name_en" value="Ya'qub b. Yazid al-Anbari"/>
           <attvalue for="d. year" value="241"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1413,9 +1413,9 @@
         <viz:position x="5769.9" y="373.42014"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n128" label="Harun b. Muslim">
+      <node id="n128" label="هارون بن مسلم">
         <attvalues>
-          <attvalue for="full_name_ar" value="هارون بن مسلم"/>
+          <attvalue for="full_name_en" value="Harun b. Muslim"/>
           <attvalue for="d. year" value="243"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1424,9 +1424,9 @@
         <viz:position x="5820.9" y="1019.93567"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n129" label="Musa b. Qasim">
+      <node id="n129" label="موسى بن القاسم بن معاوية البجلي">
         <attvalues>
-          <attvalue for="full_name_ar" value="موسى بن القاسم بن معاوية البجلي"/>
+          <attvalue for="full_name_en" value="Musa b. al-Qasim b. Mu'awiya al-Bajali"/>
           <attvalue for="d. year" value="243"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1435,9 +1435,9 @@
         <viz:position x="5825.4" y="1127.4946"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n130" label="Ahwazi">
+      <node id="n130" label="الحسين بن سعيد الأهوازي">
         <attvalues>
-          <attvalue for="full_name_ar" value="الحسين بن سعيد الأهوازي"/>
+          <attvalue for="full_name_en" value="Husayn b. Sa'id al-Ahwazi"/>
           <attvalue for="d. year" value="243"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1446,9 +1446,9 @@
         <viz:position x="5835.9" y="-1396.0433"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n131" label="Hadi">
+      <node id="n131" label="علي بن محمد الهادي">
         <attvalues>
-          <attvalue for="full_name_ar" value="علي بن محمد الهادي"/>
+          <attvalue for="full_name_en" value="Ali b. Muhammad al-Hadi"/>
           <attvalue for="d. year" value="246"/>
           <attvalue for="reliability" value="معصوم"/>
           <attvalue for="sizeclass" value="5"/>
@@ -1457,9 +1457,9 @@
         <viz:position x="5928.9" y="1640.7638"/>
         <viz:color r="244" g="237" b="0"/>
       </node>
-      <node id="n132" label="Ibrahim">
+      <node id="n132" label="إبراهيم بن هاشم القمي">
         <attvalues>
-          <attvalue for="full_name_ar" value="إبراهيم بن هاشم القمي"/>
+          <attvalue for="full_name_en" value="Ibrahim b. Hashim al-Qummi"/>
           <attvalue for="d. year" value="248"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="5"/>
@@ -1468,9 +1468,9 @@
         <viz:position x="5965.8" y="-281.92984"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n133" label="Askari">
+      <node id="n133" label="الحسن بن علي العسكري">
         <attvalues>
-          <attvalue for="full_name_ar" value="الحسن بن علي العسكري"/>
+          <attvalue for="full_name_en" value="Hasan b. Ali al-Askari"/>
           <attvalue for="d. year" value="251"/>
           <attvalue for="reliability" value="معصوم"/>
           <attvalue for="sizeclass" value="5"/>
@@ -1479,9 +1479,9 @@
         <viz:position x="6060.9" y="-158.57387"/>
         <viz:color r="244" g="237" b="0"/>
       </node>
-      <node id="n134" label="Ali b. Mahziyar">
+      <node id="n134" label="علي بن مهزيار الأهوازي">
         <attvalues>
-          <attvalue for="full_name_ar" value="علي بن مهزيار الأهوازي"/>
+          <attvalue for="full_name_en" value="Ali b. Mahziyar al-Ahwazi"/>
           <attvalue for="d. year" value="251"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1490,9 +1490,9 @@
         <viz:position x="6046.5" y="697.6077"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n135" label="Ibrahim al-Hamdani">
+      <node id="n135" label="إبراهيم بن محمد الهمداني">
         <attvalues>
-          <attvalue for="full_name_ar" value="إبراهيم بن محمد الهمداني"/>
+          <attvalue for="full_name_en" value="Ibrahim b. Muhammad al-Hamdani"/>
           <attvalue for="d. year" value="253"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1501,9 +1501,9 @@
         <viz:position x="6114.3" y="1793.3877"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n136" label="Hasan al-Khashshab">
+      <node id="n136" label="الحسن بن موسى الخشاب">
         <attvalues>
-          <attvalue for="full_name_ar" value="الحسن بن موسى الخشاب"/>
+          <attvalue for="full_name_en" value="Hasan b. Musa al-Khashshab"/>
           <attvalue for="d. year" value="253"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1512,9 +1512,9 @@
         <viz:position x="6120.0" y="494.7098"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n137" label="Ibn Abi al-Khattab">
+      <node id="n137" label="محمد بن الحسين بن أبي الخطاب">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن الحسين بن أبي الخطاب"/>
+          <attvalue for="full_name_en" value="Muhammad b. al-Husayn b. Abi al-Khattab"/>
           <attvalue for="d. year" value="254"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1523,9 +1523,9 @@
         <viz:position x="6151.5" y="-601.186"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n138" label="Abbas b. Maruf">
+      <node id="n138" label="العباس بن معروف">
         <attvalues>
-          <attvalue for="full_name_ar" value="العباس بن معروف"/>
+          <attvalue for="full_name_en" value="Abbas b. Ma'ruf"/>
           <attvalue for="d. year" value="255"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1534,9 +1534,9 @@
         <viz:position x="6162.6" y="-867.0593"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n139" label="Ibn Shammun">
+      <node id="n139" label="محمد بن الحسن بن شمون">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن الحسن بن شمون"/>
+          <attvalue for="full_name_en" value="Muhammad b. al-Hasan b. Shammun"/>
           <attvalue for="d. year" value="256"/>
           <attvalue for="reliability" value="ضعیف"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1545,9 +1545,9 @@
         <viz:position x="6205.8" y="-1154.8564"/>
         <viz:color r="255" g="191" b="98"/>
       </node>
-      <node id="n140" label="Tayalisi">
+      <node id="n140" label="محمد بن خالد الطيالسي">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن خالد الطيالسي"/>
+          <attvalue for="full_name_en" value="Muhammad b. Khalid al-Tayalisi"/>
           <attvalue for="d. year" value="256"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1556,9 +1556,9 @@
         <viz:position x="6206.7" y="-12.675401"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n141" label="Ayyub b. Nuh">
+      <node id="n141" label="أيوب بن نوح">
         <attvalues>
-          <attvalue for="full_name_ar" value="أيوب بن نوح"/>
+          <attvalue for="full_name_en" value="Ayyub b. Nuh"/>
           <attvalue for="d. year" value="257"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1567,9 +1567,9 @@
         <viz:position x="6216.3" y="1528.524"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n142" label="Fadl b. Shadhan">
+      <node id="n142" label="الفضل بن شاذان النيسابوري">
         <attvalues>
-          <attvalue for="full_name_ar" value="الفضل بن شاذان النيسابوري"/>
+          <attvalue for="full_name_en" value="Fadl b. Shadhan al-Nisaburi"/>
           <attvalue for="d. year" value="259"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1578,9 +1578,9 @@
         <viz:position x="6264.0" y="1093.2314"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n143" label="Muala b. Muhammad">
+      <node id="n143" label="المعلى بن محمد البصري">
         <attvalues>
-          <attvalue for="full_name_ar" value="المعلى بن محمد البصري"/>
+          <attvalue for="full_name_en" value="Mu'alla b. Muhammad al-Basri"/>
           <attvalue for="d. year" value="260"/>
           <attvalue for="reliability" value="مهمل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1589,9 +1589,9 @@
         <viz:position x="6306.0" y="826.3974"/>
         <viz:color r="153" g="153" b="153"/>
       </node>
-      <node id="n144" label="Hasan b. Samaa">
+      <node id="n144" label="الحسن بن محمد بن سماعة">
         <attvalues>
-          <attvalue for="full_name_ar" value="الحسن بن محمد بن سماعة"/>
+          <attvalue for="full_name_en" value="Hasan b. Muhammad b. Sama'a"/>
           <attvalue for="d. year" value="262"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1600,9 +1600,9 @@
         <viz:position x="6347.7" y="1678.1256"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n145" label="Ubaydi">
+      <node id="n145" label="محمد بن عيسى العبيدي اليقطيني">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن عيسى العبيدي اليقطيني"/>
+          <attvalue for="full_name_en" value="Muhammad b. Isa al-Ubaydi al-Yaqtini"/>
           <attvalue for="d. year" value="262"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1611,9 +1611,9 @@
         <viz:position x="6369.3" y="1253.5187"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n146" label="Muhammad b. Abd al-Jabbar">
+      <node id="n146" label="محمد بن عبد الجبار">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن عبد الجبار"/>
+          <attvalue for="full_name_en" value="Muhammad b. Abd al-Jabbar"/>
           <attvalue for="d. year" value="266"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1622,9 +1622,9 @@
         <viz:position x="6474.3" y="-974.83496"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n147" label="Ahmad al-Barqi">
+      <node id="n147" label="أحمد بن محمد بن خالد البرقي">
         <attvalues>
-          <attvalue for="full_name_ar" value="أحمد بن محمد بن خالد البرقي"/>
+          <attvalue for="full_name_en" value="Ahmad b. Muhammad b. Khalid al-Barqi"/>
           <attvalue for="d. year" value="266"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1633,9 +1633,9 @@
         <viz:position x="6475.2" y="-1579.9651"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n148" label="Ahmad b. Muhammad b. Isa">
+      <node id="n148" label="أحمد بن محمد بن عيسى الأشعري">
         <attvalues>
-          <attvalue for="full_name_ar" value="أحمد بن محمد بن عيسى الأشعري"/>
+          <attvalue for="full_name_en" value="Ahmad b. Muhammad b. Isa al-Ash'ari"/>
           <attvalue for="d. year" value="268"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="5"/>
@@ -1644,9 +1644,9 @@
         <viz:position x="6513.0" y="-241.01457"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n149" label="Hamdan b. Ahmad">
+      <node id="n149" label="محمد بن أحمد حمدان القلانسي">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن أحمد حمدان القلانسي"/>
+          <attvalue for="full_name_en" value="Muhammad b. Ahmad Hamdan al-Qalanisi"/>
           <attvalue for="d. year" value="268"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1655,9 +1655,9 @@
         <viz:position x="6517.2" y="1932.9885"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n150" label="Hasan b. Mughira">
+      <node id="n150" label="الحسن بن علي بن عبد الله بن المغيرة">
         <attvalues>
-          <attvalue for="full_name_ar" value="الحسن بن علي بن عبد الله بن المغيرة"/>
+          <attvalue for="full_name_en" value="Hasan b. Ali b. Abd Allah b. al-Mughira"/>
           <attvalue for="d. year" value="269"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1666,9 +1666,9 @@
         <viz:position x="6547.2" y="179.7293"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n151" label="Nahawandi">
+      <node id="n151" label="ابراهيم بن إسحاق النهاوندي">
         <attvalues>
-          <attvalue for="full_name_ar" value="ابراهيم بن إسحاق النهاوندي"/>
+          <attvalue for="full_name_en" value="Ibrahim b. Ishaq al-Nahawandi"/>
           <attvalue for="d. year" value="269"/>
           <attvalue for="reliability" value="ضعیف"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1677,9 +1677,9 @@
         <viz:position x="6560.7" y="-826.5714"/>
         <viz:color r="255" g="191" b="98"/>
       </node>
-      <node id="n152" label="Sahl">
+      <node id="n152" label="سهل بن زياد الآدمي">
         <attvalues>
-          <attvalue for="full_name_ar" value="سهل بن زياد الآدمي"/>
+          <attvalue for="full_name_en" value="Sahl b. Ziyad al-Adami"/>
           <attvalue for="d. year" value="274"/>
           <attvalue for="reliability" value="ضعیف"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1688,9 +1688,9 @@
         <viz:position x="6692.7" y="389.90152"/>
         <viz:color r="255" g="191" b="98"/>
       </node>
-      <node id="n153" label="Ahmad b. Faddal">
+      <node id="n153" label="أحمد بن الحسن بن علي بن فضال">
         <attvalues>
-          <attvalue for="full_name_ar" value="أحمد بن الحسن بن علي بن فضال"/>
+          <attvalue for="full_name_en" value="Ahmad b. al-Hasan b. Ali b. Faddal"/>
           <attvalue for="d. year" value="274"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1699,9 +1699,9 @@
         <viz:position x="6696.9" y="-1293.586"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n154" label="Ibn Sindi">
+      <node id="n154" label="علي بن إسماعيل السندي الأشعري">
         <attvalues>
-          <attvalue for="full_name_ar" value="علي بن إسماعيل السندي الأشعري"/>
+          <attvalue for="full_name_en" value="Ali b. Isma'il al-Sindi al-Ash'ari"/>
           <attvalue for="d. year" value="274"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1710,9 +1710,9 @@
         <viz:position x="6699.0" y="643.85986"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n155" label="Ibn Musa al-Hamdani">
+      <node id="n155" label="محمد بن موسى الهمداني">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن موسى الهمداني"/>
+          <attvalue for="full_name_en" value="Muhammad b. Musa al-Hamdani"/>
           <attvalue for="d. year" value="279"/>
           <attvalue for="reliability" value="ضعیف"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1721,9 +1721,9 @@
         <viz:position x="6819.3" y="-1051.1549"/>
         <viz:color r="255" g="191" b="98"/>
       </node>
-      <node id="n156" label="Abdallah b. Amir">
+      <node id="n156" label="عبد الله بن عامر الأشعري">
         <attvalues>
-          <attvalue for="full_name_ar" value="عبد الله بن عامر الأشعري"/>
+          <attvalue for="full_name_en" value="Abd Allah b. Amir al-Ash'ari"/>
           <attvalue for="d. year" value="279"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1732,9 +1732,9 @@
         <viz:position x="6836.1" y="1331.6583"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n157" label="Nasr b. Sabbah">
+      <node id="n157" label="نصر بن الصباح">
         <attvalues>
-          <attvalue for="full_name_ar" value="نصر بن الصباح"/>
+          <attvalue for="full_name_en" value="Nasr b. al-Sabbah"/>
           <attvalue for="d. year" value="283"/>
           <attvalue for="reliability" value="ضعیف"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1743,9 +1743,9 @@
         <viz:position x="6927.9" y="893.6764"/>
         <viz:color r="255" g="191" b="98"/>
       </node>
-      <node id="n158" label="Muhammad b. Faddal">
+      <node id="n158" label="محمد بن الحسن بن علي بن فضال">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن الحسن بن علي بن فضال"/>
+          <attvalue for="full_name_en" value="Muhammad b. al-Hasan b. Ali b. Faddal"/>
           <attvalue for="d. year" value="284"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1754,9 +1754,9 @@
         <viz:position x="6960.3" y="-1806.0845"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n159" label="Mahdi">
+      <node id="n159" label="محمد بن الحسن المهدي">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن الحسن المهدي"/>
+          <attvalue for="full_name_en" value="Muhammad b. al-Hasan al-Mahdi"/>
           <attvalue for="d. year" value="286"/>
           <attvalue for="reliability" value="معصوم"/>
           <attvalue for="sizeclass" value="5"/>
@@ -1765,9 +1765,9 @@
         <viz:position x="7020.131" y="1033.7828"/>
         <viz:color r="244" g="237" b="0"/>
       </node>
-      <node id="n160" label="Abu Abbas Mughira">
+      <node id="n160" label="أبو العباس بن المغيرة">
         <attvalues>
-          <attvalue for="full_name_ar" value="أبو العباس بن المغيرة"/>
+          <attvalue for="full_name_en" value="Abu al-Abbas b. al-Mughira"/>
           <attvalue for="d. year" value="285"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1776,9 +1776,9 @@
         <viz:position x="7009.8" y="1798.5696"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n161" label="Himyari">
+      <node id="n161" label="عبد الله بن جعفر الحميري">
         <attvalues>
-          <attvalue for="full_name_ar" value="عبد الله بن جعفر الحميري"/>
+          <attvalue for="full_name_en" value="Abd Allah b. Ja'far al-Himyari"/>
           <attvalue for="d. year" value="288"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1787,9 +1787,9 @@
         <viz:position x="7100.9897" y="1134.3049"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n162" label="Hasan b. Aban">
+      <node id="n162" label="الحسين بن الحسن بن أبان">
         <attvalues>
-          <attvalue for="full_name_ar" value="الحسين بن الحسن بن أبان"/>
+          <attvalue for="full_name_en" value="Husayn b. al-Hasan b. Aban"/>
           <attvalue for="d. year" value="289"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1798,9 +1798,9 @@
         <viz:position x="7096.8" y="-1591.8383"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n163" label="Muhammad al-Saffar">
+      <node id="n163" label="محمد بن الحسن الصفار">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن الحسن الصفار"/>
+          <attvalue for="full_name_en" value="Muhammad b. al-Hasan al-Saffar"/>
           <attvalue for="d. year" value="290"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1809,9 +1809,9 @@
         <viz:position x="7150.2" y="-202.84787"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n164" label="Muhammad b. Abi al-Qasim">
+      <node id="n164" label="محمد بن أبي القاسم عبد الله بن عمران">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن أبي القاسم عبد الله بن عمران"/>
+          <attvalue for="full_name_en" value="Muhammad b. Abi al-Qasim Abd Allah b. Imran"/>
           <attvalue for="d. year" value="291"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1820,9 +1820,9 @@
         <viz:position x="7158.9" y="-1825.799"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n165" label="Muhammad b. Qutayba">
+      <node id="n165" label="محمد بن قتيبة النيسابوري">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن قتيبة النيسابوري"/>
+          <attvalue for="full_name_en" value="Muhammad b. Qutayba al-Nisaburi"/>
           <attvalue for="d. year" value="292"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1831,9 +1831,9 @@
         <viz:position x="7204.2" y="1474.646"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n166" label="Hamdawayh">
+      <node id="n166" label="حمدويه بن نصير الكشي">
         <attvalues>
-          <attvalue for="full_name_ar" value="حمدويه بن نصير الكشي"/>
+          <attvalue for="full_name_en" value="Hamdawayh b. Nusayr al-Kashshi"/>
           <attvalue for="d. year" value="293"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1842,9 +1842,9 @@
         <viz:position x="7226.7935" y="1684.2567"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n167" label="Jafar al-Fazari">
+      <node id="n167" label="جعفر بن محمد بن مالك الفزاري">
         <attvalues>
-          <attvalue for="full_name_ar" value="جعفر بن محمد بن مالك الفزاري"/>
+          <attvalue for="full_name_en" value="Ja'far b. Muhammad b. Malik al-Fazari"/>
           <attvalue for="d. year" value="294"/>
           <attvalue for="reliability" value="ضعیف"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1853,9 +1853,9 @@
         <viz:position x="7260.6" y="89.09229"/>
         <viz:color r="255" g="191" b="98"/>
       </node>
-      <node id="n168" label="Muhammad b. Nusayr">
+      <node id="n168" label="محمد بن نصير الكشي">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن نصير الكشي"/>
+          <attvalue for="full_name_en" value="Muhammad b. Nusayr al-Kashshi"/>
           <attvalue for="d. year" value="295"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1864,9 +1864,9 @@
         <viz:position x="7273.5107" y="1614.5199"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n169" label="Ibn Imran">
+      <node id="n169" label="محمد بن أحمد بن يحيى بن عمران الأشعري">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن أحمد بن يحيى بن عمران الأشعري"/>
+          <attvalue for="full_name_en" value="Muhammad b. Ahmad b. Yahya b. Imran al-Ash'ari"/>
           <attvalue for="d. year" value="295"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1875,9 +1875,9 @@
         <viz:position x="7287.0" y="-853.49817"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n170" label="Saadabadi">
+      <node id="n170" label="علي بن الحسين السعدآبادي">
         <attvalues>
-          <attvalue for="full_name_ar" value="علي بن الحسين السعدآبادي"/>
+          <attvalue for="full_name_en" value="Ali b. al-Husayn al-Sa'dabadi"/>
           <attvalue for="d. year" value="296"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -1886,9 +1886,9 @@
         <viz:position x="7302.3" y="-1140.8734"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n171" label="Ali b. Ibrahim">
+      <node id="n171" label="علي بن إبراهيم بن هاشم القمي">
         <attvalues>
-          <attvalue for="full_name_ar" value="علي بن إبراهيم بن هاشم القمي"/>
+          <attvalue for="full_name_en" value="Ali b. Ibrahim b. Hashim al-Qummi"/>
           <attvalue for="d. year" value="297"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="5"/>
@@ -1897,9 +1897,9 @@
         <viz:position x="7346.4" y="791.29956"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n172" label="Muhammad Bundaqi">
+      <node id="n172" label="محمد بن إسماعيل البندقي">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن إسماعيل البندقي"/>
+          <attvalue for="full_name_en" value="Muhammad b. Isma'il al-Bundaqi"/>
           <attvalue for="d. year" value="298"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1908,9 +1908,9 @@
         <viz:position x="7364.4" y="678.5016"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n173" label="Muhammad b. Mahbub">
+      <node id="n173" label="محمد بن علي بن محبوب الأشعري">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن علي بن محبوب الأشعري"/>
+          <attvalue for="full_name_en" value="Muhammad b. Ali b. Mahbub al-Ash'ari"/>
           <attvalue for="d. year" value="298"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1919,9 +1919,9 @@
         <viz:position x="7366.8" y="-462.71304"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n174" label="Allan">
+      <node id="n174" label="علي بن محمد علان الكليني">
         <attvalues>
-          <attvalue for="full_name_ar" value="علي بن محمد علان الكليني"/>
+          <attvalue for="full_name_en" value="Ali b. Muhammad Allan al-Kulayni"/>
           <attvalue for="d. year" value="298"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1930,9 +1930,9 @@
         <viz:position x="7370.1" y="140.2525"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n175" label="Sa'd">
+      <node id="n175" label="سعد بن عبد الله الأشعري">
         <attvalues>
-          <attvalue for="full_name_ar" value="سعد بن عبد الله الأشعري"/>
+          <attvalue for="full_name_en" value="Sa'd b. Abd Allah al-Ash'ari"/>
           <attvalue for="d. year" value="299"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1941,9 +1941,9 @@
         <viz:position x="7379.7" y="347.71808"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n176" label="Ali b. Faddal">
+      <node id="n176" label="علي بن الحسن بن فضال">
         <attvalues>
-          <attvalue for="full_name_ar" value="علي بن الحسن بن فضال"/>
+          <attvalue for="full_name_en" value="Ali b. al-Hasan b. Faddal"/>
           <attvalue for="d. year" value="299"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1952,9 +1952,9 @@
         <viz:position x="7399.2" y="-1485.5177"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n177" label="Ibn Idris">
+      <node id="n177" label="أحمد بن إدريس القمي">
         <attvalues>
-          <attvalue for="full_name_ar" value="أحمد بن إدريس القمي"/>
+          <attvalue for="full_name_en" value="Ahmad b. Idris al-Qummi"/>
           <attvalue for="d. year" value="304"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1963,9 +1963,9 @@
         <viz:position x="7535.7" y="-161.5892"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n178" label="Husayn b. Amir">
+      <node id="n178" label="الحسين بن محمد بن عامر">
         <attvalues>
-          <attvalue for="full_name_ar" value="الحسين بن محمد بن عامر"/>
+          <attvalue for="full_name_en" value="Husayn b. Muhammad b. Amir"/>
           <attvalue for="d. year" value="306"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1974,9 +1974,9 @@
         <viz:position x="7578.6" y="832.5464"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n179" label="Humayd">
+      <node id="n179" label="حميد بن زياد">
         <attvalues>
-          <attvalue for="full_name_ar" value="حميد بن زياد"/>
+          <attvalue for="full_name_en" value="Humayd b. Ziyad"/>
           <attvalue for="d. year" value="309"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1985,9 +1985,9 @@
         <viz:position x="7665.3" y="-1184.3698"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n180" label="Ibn Himyari">
+      <node id="n180" label="محمد بن عبد الله بن جعفر الحميري">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن عبد الله بن جعفر الحميري"/>
+          <attvalue for="full_name_en" value="Muhammad b. Abd Allah b. Ja'far al-Himyari"/>
           <attvalue for="d. year" value="310"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -1996,9 +1996,9 @@
         <viz:position x="7694.4" y="1229.4868"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n181" label="Husayn b. Bundar">
+      <node id="n181" label="الحسين بن الحسن بن بندار">
         <attvalues>
-          <attvalue for="full_name_ar" value="الحسين بن الحسن بن بندار"/>
+          <attvalue for="full_name_en" value="Husayn b. al-Hasan b. Bundar"/>
           <attvalue for="d. year" value="310"/>
           <attvalue for="reliability" value="مهمل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -2007,9 +2007,9 @@
         <viz:position x="7708.5" y="1485.4116"/>
         <viz:color r="153" g="153" b="153"/>
       </node>
-      <node id="n182" label="Muhammad al-Asadi">
+      <node id="n182" label="محمد بن جعفر الأسدي">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن جعفر الأسدي"/>
+          <attvalue for="full_name_en" value="Muhammad b. Ja'far al-Asadi"/>
           <attvalue for="d. year" value="311"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -2018,9 +2018,9 @@
         <viz:position x="7723.5" y="1019.38983"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n183" label="Muhammad al-Attar">
+      <node id="n183" label="محمد بن يحيى العطار">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن يحيى العطار"/>
+          <attvalue for="full_name_en" value="Muhammad b. Yahya al-Attar"/>
           <attvalue for="d. year" value="313"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="5"/>
@@ -2029,9 +2029,9 @@
         <viz:position x="7789.8" y="-615.601"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n184" label="Ayyashi">
+      <node id="n184" label="محمد بن مسعود العياشي">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن مسعود العياشي"/>
+          <attvalue for="full_name_en" value="Muhammad b. Mas'ud al-Ayyashi"/>
           <attvalue for="d. year" value="319"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -2040,9 +2040,9 @@
         <viz:position x="7949.7" y="1737.2079"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n185" label="Kashshi">
+      <node id="n185" label="محمد بن عمر الكشي">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن عمر الكشي"/>
+          <attvalue for="full_name_en" value="Muhammad b. Umar al-Kashshi"/>
           <attvalue for="d. year" value="327"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -2051,9 +2051,9 @@
         <viz:position x="8172.3" y="1620.545"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n186" label="Kulayni">
+      <node id="n186" label="محمد بن يعقوب الكليني">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن يعقوب الكليني"/>
+          <attvalue for="full_name_en" value="Muhammad b. Ya'qub al-Kulayni"/>
           <attvalue for="d. year" value="328"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="5"/>
@@ -2062,9 +2062,9 @@
         <viz:position x="8200.2" y="210.29352"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n187" label="Majilawayh">
+      <node id="n187" label="محمد بن علي بن أبي القاسم عبد الله ماجيلويه">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن علي بن أبي القاسم عبد الله ماجيلويه"/>
+          <attvalue for="full_name_en" value="Muhammad b. Ali b. Abi al-Qasim Abd Allah Majilawayh"/>
           <attvalue for="d. year" value="327"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -2073,9 +2073,9 @@
         <viz:position x="8187.9" y="-814.7662"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n188" label="Ali b. Babawayh">
+      <node id="n188" label="علي بن الحسين بن بابويه القمي">
         <attvalues>
-          <attvalue for="full_name_ar" value="علي بن الحسين بن بابويه القمي"/>
+          <attvalue for="full_name_en" value="Ali b. al-Husayn b. Babawayh al-Qummi"/>
           <attvalue for="d. year" value="327"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -2084,9 +2084,9 @@
         <viz:position x="8194.2" y="602.4021"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n189" label="Ali al-Warraq">
+      <node id="n189" label="علي بن عبد الله الوراق">
         <attvalues>
-          <attvalue for="full_name_ar" value="علي بن عبد الله الوراق"/>
+          <attvalue for="full_name_en" value="Ali b. Abd Allah al-Warraq"/>
           <attvalue for="d. year" value="328"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -2095,9 +2095,9 @@
         <viz:position x="8205.9" y="483.67215"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n190" label="Ibn Batta">
+      <node id="n190" label="محمد بن جعفر بن أحمد بن بطة">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن جعفر بن أحمد بن بطة"/>
+          <attvalue for="full_name_en" value="Muhammad b. Ja'far b. Ahmad b. Batta"/>
           <attvalue for="d. year" value="329"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -2106,9 +2106,9 @@
         <viz:position x="8239.2" y="-1242.9623"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n191" label="Jafar b. Nuaym">
+      <node id="n191" label="جعفر بن نعيم بن شاذان">
         <attvalues>
-          <attvalue for="full_name_ar" value="جعفر بن نعيم بن شاذان"/>
+          <attvalue for="full_name_en" value="Ja'far b. Nu'aym b. Shadhan"/>
           <attvalue for="d. year" value="330"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -2117,9 +2117,9 @@
         <viz:position x="8252.7" y="-36.50258"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n192" label="Ibn Hammam">
+      <node id="n192" label="محمد بن همام بن سهيل الإسكافي">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن همام بن سهيل الإسكافي"/>
+          <attvalue for="full_name_en" value="Muhammad b. Hammam b. Suhayl al-Iskafi"/>
           <attvalue for="d. year" value="331"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -2128,9 +2128,9 @@
         <viz:position x="8303.1" y="-172.74028"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n193" label="Husayn b. Idris">
+      <node id="n193" label="الحسين بن أحمد بن إدريس">
         <attvalues>
-          <attvalue for="full_name_ar" value="الحسين بن أحمد بن إدريس"/>
+          <attvalue for="full_name_en" value="Husayn b. Ahmad b. Idris"/>
           <attvalue for="d. year" value="332"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -2139,9 +2139,9 @@
         <viz:position x="8327.1" y="56.5532"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n194" label="Ibn Abdus">
+      <node id="n194" label="عبد الواحد بن محمد بن عبدوس النيشابوري">
         <attvalues>
-          <attvalue for="full_name_ar" value="عبد الواحد بن محمد بن عبدوس النيشابوري"/>
+          <attvalue for="full_name_en" value="Abd al-Wahid b. Muhammad b. Abdus al-Nishaburi"/>
           <attvalue for="d. year" value="333"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -2150,9 +2150,9 @@
         <viz:position x="8339.1" y="1182.4314"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n195" label="Muhammad al-Taliqani">
+      <node id="n195" label="محمد بن إبراهيم بن إسحاق الطالقاني">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن إبراهيم بن إسحاق الطالقاني"/>
+          <attvalue for="full_name_en" value="Muhammad b. Ibrahim b. Ishaq al-Taliqani"/>
           <attvalue for="d. year" value="333"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -2161,9 +2161,9 @@
         <viz:position x="8355.9" y="1050.6614"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n196" label="Ibn Qulawayh">
+      <node id="n196" label="محمد بن قولويه">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن قولويه"/>
+          <attvalue for="full_name_en" value="Muhammad b. Qulawayh"/>
           <attvalue for="d. year" value="333"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -2172,9 +2172,9 @@
         <viz:position x="8362.8" y="1272.8484"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n197" label="Ibn Mutawakkil">
+      <node id="n197" label="محمد بن موسى بن المتوكل">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن موسى بن المتوكل"/>
+          <attvalue for="full_name_en" value="Muhammad b. Musa b. al-Mutawakkil"/>
           <attvalue for="d. year" value="333"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -2183,9 +2183,9 @@
         <viz:position x="8361.6" y="-280.02017"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n198" label="Ali al-Daqqaq">
+      <node id="n198" label="علي بن أحمد بن محمد بن عمران الدقاق">
         <attvalues>
-          <attvalue for="full_name_ar" value="علي بن أحمد بن محمد بن عمران الدقاق"/>
+          <attvalue for="full_name_en" value="Ali b. Ahmad b. Muhammad b. Imran al-Daqqaq"/>
           <attvalue for="d. year" value="334"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -2194,9 +2194,9 @@
         <viz:position x="8375.1" y="785.60583"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n199" label="Shah al-Marwazi">
+      <node id="n199" label="محمد بن علي الشاه المروزي">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن علي الشاه المروزي"/>
+          <attvalue for="full_name_en" value="Muhammad b. Ali al-Shah al-Marwazi"/>
           <attvalue for="d. year" value="334"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -2205,9 +2205,9 @@
         <viz:position x="8382.3" y="971.1797"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n200" label="Ali al-Barqi">
+      <node id="n200" label="علي بن أحمد بن عبد الله بن أحمد البرقي">
         <attvalues>
-          <attvalue for="full_name_ar" value="علي بن أحمد بن عبد الله بن أحمد البرقي"/>
+          <attvalue for="full_name_en" value="Ali b. Ahmad b. Abd Allah b. Ahmad al-Barqi"/>
           <attvalue for="d. year" value="335"/>
           <attvalue for="reliability" value="مهمل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -2216,9 +2216,9 @@
         <viz:position x="8402.7" y="872.09424"/>
         <viz:color r="153" g="153" b="153"/>
       </node>
-      <node id="n201" label="Hamza al-Alawi">
+      <node id="n201" label="حمزة بن محمد العلوي">
         <attvalues>
-          <attvalue for="full_name_ar" value="حمزة بن محمد العلوي"/>
+          <attvalue for="full_name_en" value="Hamza b. Muhammad al-Alawi"/>
           <attvalue for="d. year" value="336"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -2227,9 +2227,9 @@
         <viz:position x="8439.9" y="1113.4298"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n202" label="Husayn al-Ushnani">
+      <node id="n202" label="الحسين بن محمد الأشناني العدل">
         <attvalues>
-          <attvalue for="full_name_ar" value="الحسين بن محمد الأشناني العدل"/>
+          <attvalue for="full_name_en" value="Husayn b. Muhammad al-Ushnani al-Adl"/>
           <attvalue for="d. year" value="337"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -2238,9 +2238,9 @@
         <viz:position x="8472.3" y="918.4946"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n203" label="Husayn b. Ibrahim">
+      <node id="n203" label="الحسين بن إبراهيم بن أحمد بن هشام">
         <attvalues>
-          <attvalue for="full_name_ar" value="الحسين بن إبراهيم بن أحمد بن هشام"/>
+          <attvalue for="full_name_en" value="Husayn b. Ibrahim b. Ahmad b. Hisham"/>
           <attvalue for="d. year" value="338"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -2249,9 +2249,9 @@
         <viz:position x="8483.1" y="753.3308"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n204" label="Ahmad al-Hamdani">
+      <node id="n204" label="أحمد بن زياد بن جعفر الهمداني">
         <attvalues>
-          <attvalue for="full_name_ar" value="أحمد بن زياد بن جعفر الهمداني"/>
+          <attvalue for="full_name_en" value="Ahmad b. Ziyad b. Ja'far al-Hamdani"/>
           <attvalue for="d. year" value="338"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -2260,9 +2260,9 @@
         <viz:position x="8497.5" y="584.2692"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n205" label="Ahmad b. Uqda">
+      <node id="n205" label="أحمد بن محمد بن سعيد ابن عقدة">
         <attvalues>
-          <attvalue for="full_name_ar" value="أحمد بن محمد بن سعيد ابن عقدة"/>
+          <attvalue for="full_name_en" value="Ahmad b. Muhammad b. Sa'id Ibn Uqda"/>
           <attvalue for="d. year" value="339"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -2271,9 +2271,9 @@
         <viz:position x="8525.1" y="-1128.4224"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n206" label="Ahmad al-Qattan">
+      <node id="n206" label="أحمد بن الحسن القطان">
         <attvalues>
-          <attvalue for="full_name_ar" value="أحمد بن الحسن القطان"/>
+          <attvalue for="full_name_en" value="Ahmad b. al-Hasan al-Qattan"/>
           <attvalue for="d. year" value="340"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -2282,9 +2282,9 @@
         <viz:position x="8539.5" y="1017.15717"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n207" label="Muhammad al-Sinani">
+      <node id="n207" label="محمد بن أحمد السناني">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن أحمد السناني"/>
+          <attvalue for="full_name_en" value="Muhammad b. Ahmad al-Sinani"/>
           <attvalue for="d. year" value="341"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -2293,9 +2293,9 @@
         <viz:position x="8580.3" y="706.7657"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n208" label="Ibn Ayyashi">
+      <node id="n208" label="أحمد بن عبيد الله بن عياش الجوهري">
         <attvalues>
-          <attvalue for="full_name_ar" value="أحمد بن عبيد الله بن عياش الجوهري"/>
+          <attvalue for="full_name_en" value="Ahmad b. Ubayd Allah b. Ayyash al-Jawhari"/>
           <attvalue for="d. year" value="342"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -2304,9 +2304,9 @@
         <viz:position x="8603.4" y="1733.7911"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n209" label="Muhammad b. Hasan b. al-Walid">
+      <node id="n209" label="محمد بن الحسن بن الوليد">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن الحسن بن الوليد"/>
+          <attvalue for="full_name_en" value="Muhammad b. al-Hasan b. al-Walid"/>
           <attvalue for="d. year" value="343"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -2315,9 +2315,9 @@
         <viz:position x="8619.0" y="-582.30786"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n210" label="Ali b. Zubayr">
+      <node id="n210" label="علي بن محمد بن الزبير">
         <attvalues>
-          <attvalue for="full_name_ar" value="علي بن محمد بن الزبير"/>
+          <attvalue for="full_name_en" value="Ali b. Muhammad b. al-Zubayr"/>
           <attvalue for="d. year" value="349"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -2326,9 +2326,9 @@
         <viz:position x="8815.5" y="-1217.3906"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n211" label="Haydar b. Nuaym">
+      <node id="n211" label="حيدر بن نعيم السمرقندي">
         <attvalues>
-          <attvalue for="full_name_ar" value="حيدر بن نعيم السمرقندي"/>
+          <attvalue for="full_name_en" value="Haydar b. Nu'aym al-Samarqandi"/>
           <attvalue for="d. year" value="350"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="4"/>
@@ -2337,9 +2337,9 @@
         <viz:position x="8842.5" y="1393.0332"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n212" label="Abu Talib al-Anbari">
+      <node id="n212" label="عبيد الله بن أحمد أبو طالب الأنباري">
         <attvalues>
-          <attvalue for="full_name_ar" value="عبيد الله بن أحمد أبو طالب الأنباري"/>
+          <attvalue for="full_name_en" value="Ubayd Allah b. Ahmad Abu Talib al-Anbari"/>
           <attvalue for="d. year" value="354"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="3"/>
@@ -2348,9 +2348,9 @@
         <viz:position x="8955.3" y="-965.2102"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n213" label="Ahmad al-Attar">
+      <node id="n213" label="أحمد بن محمد بن يحيى العطار">
         <attvalues>
-          <attvalue for="full_name_ar" value="أحمد بن محمد بن يحيى العطار"/>
+          <attvalue for="full_name_en" value="Ahmad b. Muhammad b. Yahya al-Attar"/>
           <attvalue for="d. year" value="355"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="4"/>
@@ -2359,9 +2359,9 @@
         <viz:position x="8975.7" y="106.95706"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n214" label="Hasan b. Hamza al-Tabari">
+      <node id="n214" label="الحسن بن حمزة العلوي الطبري">
         <attvalues>
-          <attvalue for="full_name_ar" value="الحسن بن حمزة العلوي الطبري"/>
+          <attvalue for="full_name_en" value="Hasan b. Hamza al-Alawi al-Tabari"/>
           <attvalue for="d. year" value="358"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -2370,9 +2370,9 @@
         <viz:position x="9059.1" y="-510.23636"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n215" label="Ibn Shuba">
+      <node id="n215" label="الحسن بن علي بن شعبة الحراني">
         <attvalues>
-          <attvalue for="full_name_ar" value="الحسن بن علي بن شعبة الحراني"/>
+          <attvalue for="full_name_en" value="Hasan b. Ali b. Shu'ba al-Harrani"/>
           <attvalue for="d. year" value="364"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -2381,9 +2381,9 @@
         <viz:position x="9213.6" y="-141.5088"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n216" label="Muhammad b. Ahmad">
+      <node id="n216" label="أحمد بن محمد أبو غالب الزراري">
         <attvalues>
-          <attvalue for="full_name_ar" value="أحمد بن محمد أبو غالب الزراري"/>
+          <attvalue for="full_name_en" value="Ahmad b. Muhammad Abu Ghalib al-Zurari"/>
           <attvalue for="d. year" value="371"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -2392,9 +2392,9 @@
         <viz:position x="9415.2" y="-471.6797"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n217" label="Jafar b. Qulawayh">
+      <node id="n217" label="جعفر بن محمد بن قولويه">
         <attvalues>
-          <attvalue for="full_name_ar" value="جعفر بن محمد بن قولويه"/>
+          <attvalue for="full_name_en" value="Ja'far b. Muhammad b. Qulawayh"/>
           <attvalue for="d. year" value="371"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -2403,9 +2403,9 @@
         <viz:position x="9425.4" y="152.85017"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n218" label="Saduq">
+      <node id="n218" label="محمد بن علي بن الحسين بن بابويه الصدوق">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن علي بن الحسين بن بابويه الصدوق"/>
+          <attvalue for="full_name_en" value="Muhammad b. Ali b. al-Husayn b. Babawayh al-Saduq"/>
           <attvalue for="d. year" value="380"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="5"/>
@@ -2414,9 +2414,9 @@
         <viz:position x="9666.3" y="621.99585"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n219" label="Ahmad b. Muhammad b. al-Walid">
+      <node id="n219" label="أحمد بن محمد بن الحسن بن الوليد">
         <attvalues>
-          <attvalue for="full_name_ar" value="أحمد بن محمد بن الحسن بن الوليد"/>
+          <attvalue for="full_name_en" value="Ahmad b. Muhammad b. al-Hasan b. al-Walid"/>
           <attvalue for="d. year" value="380"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="3"/>
@@ -2425,9 +2425,9 @@
         <viz:position x="9659.7" y="-194.37752"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n220" label="Ahmad al-Kufi">
+      <node id="n220" label="أحمد بن علي بن سعيد أبو الحسين الكوفي">
         <attvalues>
-          <attvalue for="full_name_ar" value="أحمد بن علي بن سعيد أبو الحسين الكوفي"/>
+          <attvalue for="full_name_en" value="Ahmad b. Ali b. Sa'id Abu al-Husayn al-Kufi"/>
           <attvalue for="d. year" value="381"/>
           <attvalue for="reliability" value="مهمل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -2436,9 +2436,9 @@
         <viz:position x="9706.5" y="25.88207"/>
         <viz:color r="153" g="153" b="153"/>
       </node>
-      <node id="n221" label="Talukbari">
+      <node id="n221" label="هارون بن موسى التلعكبري">
         <attvalues>
-          <attvalue for="full_name_ar" value="هارون بن موسى التلعكبري"/>
+          <attvalue for="full_name_en" value="Harun b. Musa al-Tal'ukbari"/>
           <attvalue for="d. year" value="385"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -2447,9 +2447,9 @@
         <viz:position x="9814.5" y="-455.55786"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n222" label="Ahmad b. Muhammad al-Alawi">
+      <node id="n222" label="أحمد بن محمد بن عيسى العلوي الزاهد">
         <attvalues>
-          <attvalue for="full_name_ar" value="أحمد بن محمد بن عيسى العلوي الزاهد"/>
+          <attvalue for="full_name_en" value="Ahmad b. Muhammad b. Isa al-Alawi al-Zahid"/>
           <attvalue for="d. year" value="393"/>
           <attvalue for="reliability" value="مهمل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -2458,9 +2458,9 @@
         <viz:position x="10021.8" y="853.4839"/>
         <viz:color r="153" g="153" b="153"/>
       </node>
-      <node id="n223" label="Shaybani">
+      <node id="n223" label="محمد بن عبد الله أبو المفضل الشيباني">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن عبد الله أبو المفضل الشيباني"/>
+          <attvalue for="full_name_en" value="Muhammad b. Abd Allah Abu al-Mufaddal al-Shaybani"/>
           <attvalue for="d. year" value="399"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -2469,9 +2469,9 @@
         <viz:position x="10190.7" y="-779.1721"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n224" label="Adib">
+      <node id="n224" label="محمد بن جعفر الأديب أبو الحسن النحوي">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن جعفر الأديب أبو الحسن النحوي"/>
+          <attvalue for="full_name_en" value="Muhammad b. Ja'far al-Adib Abu al-Hasan al-Nahwi"/>
           <attvalue for="d. year" value="407"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="4"/>
@@ -2480,9 +2480,9 @@
         <viz:position x="10424.4" y="-642.24554"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n225" label="Ibn Abi al-Jayyid">
+      <node id="n225" label="علي بن أحمد بن محمد بن طاهر بن أبي جيد">
         <attvalues>
-          <attvalue for="full_name_ar" value="علي بن أحمد بن محمد بن طاهر بن أبي جيد"/>
+          <attvalue for="full_name_en" value="Ali b. Ahmad b. Muhammad b. Tahir b. Abi Jayyid"/>
           <attvalue for="d. year" value="410"/>
           <attvalue for="reliability" value="مهمل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -2491,9 +2491,9 @@
         <viz:position x="10516.8" y="-321.75027"/>
         <viz:color r="153" g="153" b="153"/>
       </node>
-      <node id="n226" label="Ghada'iri">
+      <node id="n226" label="الحسين بن عبيد الله الغضائري">
         <attvalues>
-          <attvalue for="full_name_ar" value="الحسين بن عبيد الله الغضائري"/>
+          <attvalue for="full_name_en" value="Husayn b. Ubayd Allah al-Ghadairi"/>
           <attvalue for="d. year" value="411"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -2502,9 +2502,9 @@
         <viz:position x="10525.5" y="-103.83527"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n227" label="Mufid">
+      <node id="n227" label="محمد بن محمد بن النعمان الشيخ المفيد">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن محمد بن النعمان الشيخ المفيد"/>
+          <attvalue for="full_name_en" value="Muhammad b. Muhammad b. al-Nu'man al-Shaykh al-Mufid"/>
           <attvalue for="d. year" value="411"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -2513,9 +2513,9 @@
         <viz:position x="10548.3" y="309.40356"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n228" label="Ahmad b. Salt">
+      <node id="n228" label="أحمد بن محمد بن هارون بن الصلت">
         <attvalues>
-          <attvalue for="full_name_ar" value="أحمد بن محمد بن هارون بن الصلت"/>
+          <attvalue for="full_name_en" value="Ahmad b. Muhammad b. Harun b. al-Salt"/>
           <attvalue for="d. year" value="413"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="4"/>
@@ -2524,9 +2524,9 @@
         <viz:position x="10601.4" y="-798.4464"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n229" label="Ibn Abdun">
+      <node id="n229" label="أحمد بن عبد الواحد بن عبدون">
         <attvalues>
-          <attvalue for="full_name_ar" value="أحمد بن عبد الواحد بن عبدون"/>
+          <attvalue for="full_name_en" value="Ahmad b. Abd al-Wahid b. Abdun"/>
           <attvalue for="d. year" value="421"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="4"/>
@@ -2535,9 +2535,9 @@
         <viz:position x="10827.6" y="-515.52136"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n230" label="Murtada">
+      <node id="n230" label="علي بن الحسين الشريف المرتضى">
         <attvalues>
-          <attvalue for="full_name_ar" value="علي بن الحسين الشريف المرتضى"/>
+          <attvalue for="full_name_en" value="Ali b. al-Husayn al-Sharif al-Murtada"/>
           <attvalue for="d. year" value="434"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="4"/>
@@ -2546,9 +2546,9 @@
         <viz:position x="11199.9" y="-144.52237"/>
         <viz:color r="64" g="226" b="0"/>
       </node>
-      <node id="n231" label="Najashi">
+      <node id="n231" label="أحمد بن علي النجاشي">
         <attvalues>
-          <attvalue for="full_name_ar" value="أحمد بن علي النجاشي"/>
+          <attvalue for="full_name_en" value="Ahmad b. Ali al-Najashi"/>
           <attvalue for="d. year" value="451"/>
           <attvalue for="reliability" value="ثقه"/>
           <attvalue for="sizeclass" value="4"/>
@@ -2557,9 +2557,9 @@
         <viz:position x="11648.4" y="-195.79141"/>
         <viz:color r="0" g="201" b="247"/>
       </node>
-      <node id="n232" label="Tusi">
+      <node id="n232" label="محمد بن الحسن الطوسي">
         <attvalues>
-          <attvalue for="full_name_ar" value="محمد بن الحسن الطوسي"/>
+          <attvalue for="full_name_en" value="Muhammad b. al-Hasan al-Tusi"/>
           <attvalue for="d. year" value="459"/>
           <attvalue for="reliability" value="جلیل"/>
           <attvalue for="sizeclass" value="5"/>
